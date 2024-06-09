@@ -8,7 +8,10 @@ The data used to support the findings of study is derived from the website, "URL
 
 ## References
 [AasBirth] Kai Zhang, Xiwen Wang, Jianting Ning, Mi Wen, Rongxing Lu: Multi-Client Boolean File Retrieval With Adaptable Authorization Switching for Secure Cloud Search Services. IEEE Transactions on Dependable and Secure Computing 20(6): 4621-4636 (2023)
+
 [PS-BiAC] Kai Zhang, Xiwen Wang, Jianting Ning, Junqing Gong, Xinyi Huang: Secure Cloud-Assisted Data Pub/Sub Service With Fine-Grained Bilateral Access Control. IEEE Transactions on Information Forensics and Security 18: 5286-5301 (2023)
+
 [ABKS-CRF] 	Kai Zhang, Zhe Jiang, Jianting Ning, Xinyi Huang: Subversion-Resistant and Consistent Attribute-Based Keyword Search for Secure Cloud Storage. IEEE Transactions on Information Forensics and Security 17: 1771-1784 (2022)
+
 [DS-SSE] Kai Zhang, Xiwen Wang, Jianting Ning, Xinyi Huang: Dual-Server Boolean Data Retrieval for Highly-Scalable Secure File Sharing Services. IEEE Transactions on Information Forensics and Security 18: 449-462 (2023)
 
