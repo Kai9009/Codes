@@ -1,0 +1,1502 @@
+2023-11-16 12:27:36,388 - myscheme.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:27:36,404 - myscheme.py[line:205] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:39,210 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:39,210 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:39,231 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:39,231 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:39,236 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:39,236 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:39,237 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:39,237 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:39,237 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:39,237 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:39,238 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:39,238 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:39,293 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:39,293 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:39,352 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:39,352 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:39,353 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:39,353 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:39,353 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:39,353 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:39,359 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:39,359 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:39,359 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:39,359 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:39,359 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:39,365 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,365 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,365 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,365 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,365 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:39,365 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:39,366 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:39,366 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:39,410 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,410 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,413 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,413 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,419 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,419 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,419 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,419 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,419 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:39,419 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:39,419 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:39,419 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:39,464 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,464 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,467 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,467 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,474 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,474 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,474 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,474 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,474 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:39,474 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:39,474 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:39,474 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:39,519 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,519 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,523 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,523 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,529 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,529 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,529 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,529 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,529 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:39,529 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:39,529 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:39,529 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:39,573 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,573 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,576 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,576 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,582 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,582 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,582 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,582 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,582 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:39,582 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:39,582 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:39,582 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:39,628 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,628 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,631 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,631 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,637 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,637 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,637 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,637 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,637 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:39,637 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:39,637 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:39,637 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:39,682 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,682 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,685 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,685 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,691 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,691 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,694 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,694 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,694 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:39,694 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:39,694 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:39,694 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:39,738 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,738 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,742 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,742 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,748 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,748 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,748 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,748 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,748 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:39,748 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:39,748 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:39,748 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:39,791 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,791 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,795 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,795 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,801 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,801 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,801 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,801 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,801 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:39,801 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:39,801 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:39,801 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:39,846 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,846 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,849 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,849 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,855 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,855 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:39,855 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,855 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:39,855 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:39,855 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:39,855 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:39,855 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:39,901 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,901 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:39,904 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:39,904 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,016 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:40,016 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:40,037 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:40,037 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:40,042 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:40,042 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:40,042 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:40,042 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:40,043 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:40,043 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:40,043 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:40,043 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:40,140 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:40,140 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:40,248 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:40,248 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:40,249 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:40,249 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:40,249 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:40,249 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:40,254 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:40,254 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:40,254 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:40,254 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:40,254 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:40,254 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:40,255 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:40,255 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:40,255 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:40,255 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:40,261 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,261 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,261 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,261 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,261 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:40,261 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:40,261 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:40,261 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:40,328 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,328 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,331 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,331 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,337 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,337 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,337 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,337 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,338 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:40,338 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:40,338 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:40,338 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:40,406 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,406 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,409 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,409 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,415 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,415 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,415 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,415 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,415 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:40,415 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:40,415 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:40,415 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:40,484 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,484 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,487 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,487 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,493 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,493 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,493 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,493 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,493 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:40,493 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:40,493 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:40,493 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:40,562 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,562 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,565 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,565 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,571 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,571 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,571 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,571 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,572 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:40,572 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:40,572 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:40,572 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:40,640 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,640 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,644 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,644 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,650 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,650 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,650 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,650 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,650 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:40,650 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:40,650 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:40,650 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:40,718 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,718 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,721 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,721 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,727 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,727 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,727 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,727 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,727 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:40,727 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:40,728 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:40,728 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:40,796 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,796 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,799 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,799 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,805 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,805 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,805 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,805 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,805 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:40,805 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:40,805 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:40,805 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:40,874 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,874 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,877 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,877 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,883 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,883 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,883 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,883 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,883 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:40,883 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:40,883 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:40,883 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:40,951 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,951 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:40,954 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,954 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:40,961 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,961 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:40,961 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,961 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:40,961 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:40,961 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:40,961 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:40,961 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:41,029 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,029 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,032 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,032 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,200 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:41,200 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:41,220 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:41,220 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:41,225 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:41,225 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:41,226 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:41,226 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:41,226 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:41,226 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:41,226 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:41,226 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:41,365 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:41,365 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:41,522 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:41,522 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:41,523 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:41,523 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:41,523 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:41,523 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:41,528 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:41,528 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:41,529 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:41,529 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:41,529 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:41,535 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,535 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,535 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,535 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,535 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:41,535 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:41,535 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:41,535 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:41,626 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,626 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,629 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,629 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,635 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,635 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,635 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,635 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,635 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:41,635 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:41,635 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:41,635 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:41,727 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,727 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,730 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,730 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,736 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,736 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,736 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,736 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,736 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:41,736 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:41,736 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:41,736 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:41,828 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,828 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,831 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,831 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,837 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,837 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,837 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,837 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,837 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:41,837 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:41,838 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:41,838 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:41,930 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,930 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:41,933 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,933 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:41,939 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,939 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:41,939 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,939 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:41,939 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:41,939 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:41,939 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:41,939 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:42,030 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,030 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,033 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,033 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,039 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,039 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,040 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,040 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,040 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:42,040 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:42,040 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:42,040 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:42,131 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,131 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,134 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,134 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,140 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,140 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,140 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,140 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,140 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:42,140 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:42,140 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:42,140 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:42,232 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,232 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,235 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,235 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,241 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,241 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,241 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,241 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,242 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:42,242 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:42,242 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:42,242 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:42,333 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,333 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,336 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,336 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,342 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,342 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,343 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,343 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,343 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:42,343 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:42,343 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:42,343 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:42,435 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,435 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,439 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,439 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,445 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,445 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:42,445 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,445 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:42,445 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:42,445 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:42,445 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:42,445 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:42,537 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,537 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:42,540 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,540 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:42,762 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:42,762 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:42,783 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:42,783 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:42,788 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:42,788 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:42,788 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:42,788 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:42,788 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:42,788 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:42,789 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:42,789 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:42,970 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:42,970 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:43,176 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:43,176 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:43,177 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:43,177 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:43,177 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:43,177 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:43,183 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:43,183 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:43,183 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:43,183 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:43,183 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:43,189 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,189 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,189 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,189 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,189 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:43,189 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:43,190 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:43,190 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:43,306 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,306 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,309 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,309 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,316 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,316 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,316 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,316 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,316 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:43,316 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:43,316 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:43,316 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:43,430 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,430 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,434 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,434 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,440 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,440 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,440 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,440 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,440 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:43,440 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:43,440 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:43,440 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:43,555 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,555 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,558 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,558 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,564 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,564 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,564 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,564 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,564 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:43,564 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:43,564 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:43,564 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:43,679 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,679 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,683 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,683 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,689 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,689 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,689 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,689 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,689 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:43,689 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:43,689 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:43,689 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:43,805 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,805 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,809 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,809 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,815 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,815 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,815 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,815 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,815 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:43,815 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:43,815 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:43,815 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:43,931 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,931 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:43,934 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,934 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:43,940 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,940 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:43,940 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,940 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:43,941 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:43,941 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:43,941 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:43,941 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:44,056 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,056 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,060 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,060 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,066 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,066 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,066 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,066 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,066 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:44,066 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:44,066 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:44,066 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:44,180 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,180 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,183 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,183 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,189 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,189 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,189 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,189 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,189 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:44,189 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:44,189 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:44,189 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:44,304 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,304 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,308 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,308 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,314 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,314 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:44,314 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,314 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:44,314 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:44,314 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:44,314 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:44,314 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:44,430 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,430 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:44,433 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,433 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:44,713 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:44,713 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:44,733 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:44,733 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:44,739 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:44,739 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:44,739 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:44,739 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:44,739 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:44,739 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:44,740 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:44,740 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:44,964 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:44,964 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:45,220 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:45,220 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:45,220 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:45,220 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:45,221 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:45,221 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:45,226 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:45,226 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:45,226 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:45,226 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:45,226 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:45,226 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:45,227 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:45,227 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:45,227 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:45,227 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:45,233 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,233 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,233 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,233 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,233 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:45,233 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:45,233 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:45,233 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:45,372 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,372 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,376 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,376 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,382 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,382 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,382 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,382 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,382 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:45,382 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:45,382 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:45,382 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:45,520 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,520 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,523 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,523 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,529 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,529 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,529 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,529 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,529 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:45,529 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:45,530 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:45,530 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:45,665 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,665 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,668 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,668 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,674 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,674 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,674 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,674 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,674 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:45,674 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:45,675 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:45,675 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:45,814 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,814 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,817 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,817 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,824 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,824 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,824 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,824 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,824 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:45,824 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:45,824 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:45,824 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:45,963 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,963 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:45,966 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,966 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:45,972 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,972 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:45,972 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,972 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:45,972 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:45,972 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:45,972 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:45,972 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:46,109 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,109 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,112 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,112 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,119 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,119 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,119 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,119 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,119 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:46,119 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:46,119 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:46,119 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:46,257 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,257 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,260 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,260 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,266 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,266 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,266 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,266 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,266 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:46,266 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:46,267 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:46,267 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:46,404 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,404 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,407 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,407 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,413 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,413 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,414 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,414 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,414 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:46,414 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:46,414 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:46,414 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:46,550 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,550 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,554 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,554 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,560 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,560 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:46,560 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,560 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:46,560 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:46,560 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:46,560 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:46,560 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:46,698 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,698 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:46,701 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:46,701 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:47,032 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:47,032 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:47,052 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:47,052 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:47,057 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:47,057 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:47,057 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:47,057 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:47,058 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:47,058 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:47,058 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:47,058 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:47,324 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:47,324 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:47,630 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:47,630 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:47,630 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:47,630 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:47,631 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:47,631 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:47,636 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:47,636 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:47,636 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:47,636 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:47,636 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:47,636 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:47,637 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:47,637 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:47,637 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:47,637 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:47,643 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,643 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,643 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,643 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,643 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:47,643 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:47,643 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:47,643 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:47,804 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:47,804 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:47,807 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:47,807 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:47,813 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,813 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,813 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,813 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,814 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:47,814 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:47,814 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:47,814 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:47,974 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:47,974 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:47,978 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:47,978 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:47,984 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,984 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:47,984 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,984 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:47,984 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:47,984 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:47,984 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:47,984 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:48,146 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,146 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,149 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,149 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,155 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,155 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,155 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,155 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,155 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:48,155 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:48,155 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:48,155 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:48,315 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,315 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,318 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,318 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,325 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,325 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,325 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,325 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,325 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:48,325 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:48,325 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:48,325 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:48,488 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,488 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,491 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,491 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,497 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,497 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,498 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,498 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,498 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:48,498 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:48,498 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:48,498 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:48,661 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,661 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,664 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,664 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,670 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,670 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,671 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,671 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,671 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:48,671 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:48,671 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:48,671 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:48,831 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,831 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:48,835 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,835 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:48,841 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,841 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:48,841 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,841 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:48,841 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:48,841 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:48,841 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:48,841 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:49,003 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,003 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,007 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,007 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,013 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:49,013 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:49,013 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:49,013 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:49,013 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:49,013 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:49,013 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:49,013 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:49,172 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,172 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,176 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,176 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,182 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:49,182 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:49,182 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:49,182 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:49,182 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:49,182 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:49,182 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:49,182 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:49,345 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,345 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:49,348 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,348 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:49,734 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:49,734 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:49,754 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:49,754 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:49,759 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:49,759 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:49,760 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:49,760 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:49,760 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:49,760 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:49,760 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:49,760 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:50,068 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:50,068 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:50,425 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:50,425 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:50,426 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:50,426 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:50,426 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:50,426 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:50,432 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:50,432 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:50,432 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:50,432 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:50,432 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:50,438 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,438 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,438 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,438 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,439 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:50,439 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:50,439 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:50,439 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:50,621 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:50,621 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:50,624 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:50,624 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:50,630 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,630 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,631 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,631 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,631 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:50,631 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:50,631 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:50,631 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:50,816 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:50,816 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:50,820 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:50,820 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:50,826 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,826 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:50,826 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,826 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:50,826 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:50,826 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:50,826 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:50,826 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:51,011 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,011 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,015 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,015 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,021 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,021 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,021 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,021 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,021 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:51,021 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:51,021 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:51,021 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:51,205 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,205 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,208 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,208 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,214 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,214 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,214 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,214 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,215 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:51,215 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:51,215 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:51,215 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:51,400 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,400 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,404 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,404 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,410 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,410 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,410 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,410 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,410 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:51,410 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:51,410 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:51,410 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:51,597 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,597 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,600 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,600 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,606 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,606 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,606 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,606 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,606 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:51,606 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:51,606 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:51,606 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:51,785 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,785 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,788 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,788 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,795 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,795 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,795 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,795 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,795 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:51,795 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:51,795 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:51,795 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:51,982 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,982 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:51,985 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,985 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:51,991 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,991 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:51,991 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,991 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:51,991 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:51,991 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:51,991 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:51,991 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:52,178 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:52,178 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:52,182 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:52,182 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:52,188 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:52,188 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:52,188 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:52,188 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:52,188 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:52,188 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:52,188 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:52,188 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:52,368 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:52,368 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:52,371 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:52,371 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:52,813 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:52,813 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:52,833 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:52,833 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:52,838 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:52,838 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:52,839 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:52,839 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:52,839 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:52,839 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:52,839 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:52,839 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:53,191 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:53,191 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:53,598 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:53,598 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:53,598 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:53,598 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:53,598 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:53,598 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:53,604 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:53,604 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:53,604 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:53,604 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:53,604 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:53,604 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:53,604 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:53,604 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:53,605 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:53,605 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:53,611 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:53,611 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:53,611 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:53,611 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:53,611 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:53,611 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:53,611 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:53,611 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:53,817 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:53,817 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:53,821 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:53,821 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:53,827 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:53,827 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:53,827 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:53,827 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:53,827 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:53,827 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:53,827 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:53,827 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:54,028 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,028 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,032 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,032 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,038 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,038 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,038 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,038 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,038 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:54,038 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:54,038 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:54,038 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:54,246 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,246 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,250 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,250 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,256 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,256 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,256 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,256 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,256 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:54,256 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:54,256 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:54,256 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:54,461 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,461 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,464 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,464 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,470 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,470 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,470 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,470 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,470 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:54,470 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:54,471 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:54,471 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:54,678 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,678 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,681 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,681 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,688 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,688 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,688 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,688 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,688 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:54,688 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:54,688 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:54,688 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:54,897 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,897 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:54,902 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,902 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:54,909 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,909 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:54,909 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,909 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:54,909 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:54,909 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:54,909 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:54,909 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:55,115 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,115 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,119 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,119 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,125 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,125 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,125 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,125 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,125 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:55,125 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:55,125 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:55,125 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:55,335 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,335 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,338 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,338 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,344 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,344 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,344 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,344 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,344 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:55,344 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:55,344 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:55,344 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:55,552 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,552 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,556 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,556 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,562 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,562 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:55,562 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,562 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:55,562 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:55,562 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:55,562 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:55,562 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:55,764 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,764 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:55,767 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:55,767 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:56,263 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:56,263 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:56,283 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:56,283 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:29:56,288 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:56,288 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:56,289 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:56,289 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:29:56,289 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:56,289 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:29:56,289 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:56,289 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:29:56,683 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:56,683 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:29:57,140 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:57,140 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:29:57,141 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:57,141 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:29:57,141 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:57,141 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:29:57,147 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:57,147 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:29:57,147 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:57,147 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:57,147 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:29:57,153 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,153 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,154 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,154 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,154 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:57,154 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:29:57,154 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:57,154 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:29:57,386 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,386 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,389 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,389 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,396 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,396 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,396 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,396 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,396 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:57,396 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:29:57,396 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:57,396 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:29:57,630 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,630 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,634 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,634 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,640 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,640 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,640 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,640 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,640 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:57,640 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:29:57,640 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:57,640 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:29:57,872 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,872 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:57,876 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,876 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:57,882 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,882 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:57,882 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,882 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:57,882 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:57,882 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:29:57,882 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:57,882 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:29:58,118 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,118 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,121 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,121 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,127 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,127 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,128 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,128 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,128 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:58,128 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:29:58,128 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:58,128 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:29:58,359 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,359 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,363 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,363 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,369 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,369 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,369 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,369 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,369 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:58,369 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:29:58,369 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:58,369 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:29:58,601 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,601 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,605 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,605 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,611 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,611 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,611 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,611 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,611 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:58,611 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:29:58,611 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:58,611 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:29:58,843 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,843 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:58,847 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,847 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:58,853 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,853 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:58,853 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,853 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:58,853 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:58,853 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:29:58,853 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:58,853 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:29:59,087 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,087 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,090 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:59,090 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:59,096 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:59,096 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:59,097 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:59,097 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:59,097 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:59,097 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:29:59,097 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:59,097 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:29:59,327 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,327 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,330 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:59,330 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:59,336 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:59,336 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:29:59,337 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:59,337 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:29:59,337 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:59,337 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:29:59,337 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:59,337 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:29:59,573 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,573 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:29:59,577 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:29:59,577 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:00,128 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:30:00,128 - main.py[line:159] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:30:00,148 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:30:00,148 - abme.py[line:45] - INFO: ==================GlobalSetup Start==================
+2023-11-16 12:30:00,154 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:30:00,154 - abme.py[line:61] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:30:00,154 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:30:00,154 - main.py[line:930] - INFO: Creating Server/Parameter/PP.dat file
+2023-11-16 12:30:00,154 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:30:00,154 - main.py[line:930] - INFO: Creating Server/Parameter/MSK.dat file
+2023-11-16 12:30:00,155 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:30:00,155 - main.py[line:225] - INFO: ==================GlobalSetup End==================
+2023-11-16 12:30:00,590 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:30:00,590 - main.py[line:930] - INFO: Creating Server/Parameter/ek.dat file
+2023-11-16 12:30:01,098 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:30:01,098 - main.py[line:930] - INFO: Creating Server/Parameter/dkR.dat file
+2023-11-16 12:30:01,099 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:30:01,099 - main.py[line:764] - INFO: ==================GetDList Start==================
+2023-11-16 12:30:01,099 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:30:01,099 - main.py[line:824] - INFO: ==================GetDList End==================
+2023-11-16 12:30:01,105 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:30:01,105 - main.py[line:464] - INFO: ==================EDBSetup Start==================
+2023-11-16 12:30:01,105 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:30:01,105 - main.py[line:468] - INFO: ==================EDBSetup End==================
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/EDB.dat file
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/XSet.dat file
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:30:01,105 - main.py[line:930] - INFO: Creating Server/Parameter/WSet.dat file
+2023-11-16 12:30:01,112 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,112 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,112 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,112 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,112 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:30:01,112 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com']
+2023-11-16 12:30:01,112 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:30:01,112 - main.py[line:528] - INFO: Query keyword number = 1
+2023-11-16 12:30:01,369 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,369 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,372 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,372 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,379 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,379 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,379 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,379 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,379 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:30:01,379 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com']
+2023-11-16 12:30:01,379 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:30:01,379 - main.py[line:528] - INFO: Query keyword number = 2
+2023-11-16 12:30:01,634 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,634 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,637 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,637 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,643 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,643 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,644 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,644 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,644 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:30:01,644 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage']
+2023-11-16 12:30:01,644 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:30:01,644 - main.py[line:528] - INFO: Query keyword number = 3
+2023-11-16 12:30:01,899 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,899 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:01,903 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,903 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:01,909 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,909 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:01,909 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,909 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:01,909 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:30:01,909 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination']
+2023-11-16 12:30:01,909 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:30:01,909 - main.py[line:528] - INFO: Query keyword number = 4
+2023-11-16 12:30:02,166 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,166 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,170 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,170 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,176 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,176 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,176 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,176 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,176 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:30:02,176 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial']
+2023-11-16 12:30:02,176 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:30:02,176 - main.py[line:528] - INFO: Query keyword number = 5
+2023-11-16 12:30:02,433 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,433 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,436 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,436 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,442 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,442 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,443 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,443 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,443 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:30:02,443 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review']
+2023-11-16 12:30:02,443 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:30:02,443 - main.py[line:528] - INFO: Query keyword number = 6
+2023-11-16 12:30:02,699 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,699 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,702 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,702 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,708 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,708 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,708 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,708 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,709 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:30:02,709 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting']
+2023-11-16 12:30:02,709 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:30:02,709 - main.py[line:528] - INFO: Query keyword number = 7
+2023-11-16 12:30:02,962 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,962 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:02,966 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,966 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:02,972 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,972 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:02,972 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,972 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:02,972 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:30:02,972 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S']
+2023-11-16 12:30:02,972 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:30:02,972 - main.py[line:528] - INFO: Query keyword number = 8
+2023-11-16 12:30:03,228 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,228 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,232 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:03,232 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:03,238 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:03,238 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:03,238 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:03,238 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:03,238 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:30:03,238 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)']
+2023-11-16 12:30:03,238 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:30:03,238 - main.py[line:528] - INFO: Query keyword number = 9
+2023-11-16 12:30:03,493 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,493 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,497 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:03,497 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:03,503 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:03,503 - main.py[line:524] - INFO: Trap length is 0
+2023-11-16 12:30:03,503 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:03,503 - main.py[line:526] - INFO: Send to Front Server for 0 times
+2023-11-16 12:30:03,503 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:30:03,503 - main.py[line:527] - INFO: Query Keywords = ['', 'randy.lebeau@enron.com', 'jerry.graves@enron.com', 'Outage', 'Coordination', 'Commercial', 'Review', 'Meeting', 'Corman-S', 'Fri, 8 Mar 2002 08:26:38 -0800 (PST)', 'shelley.corman@enron.com']
+2023-11-16 12:30:03,503 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:30:03,503 - main.py[line:528] - INFO: Query keyword number = 10
+2023-11-16 12:30:03,758 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,758 - main.py[line:930] - INFO: Creating Client/Parameter/token.dat file
+2023-11-16 12:30:03,761 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file
+2023-11-16 12:30:03,761 - main.py[line:930] - INFO: Creating Client/Parameter/R.dat file

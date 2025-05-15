@@ -1,0 +1,1428 @@
+2023-11-16 12:27:36,403 - myscheme.py[line:198] - INFO: pk_ts.dat size = 445 B
+2023-11-16 12:27:36,404 - myscheme.py[line:199] - INFO: sk_ts.dat size = 181 B
+2023-11-16 12:27:36,404 - myscheme.py[line:200] - INFO: PP.dat size = 542 B
+2023-11-16 12:27:36,404 - myscheme.py[line:201] - INFO: PK.dat size = 445 B
+2023-11-16 12:27:36,404 - myscheme.py[line:202] - INFO: SK.dat size = 181 B
+2023-11-16 12:27:36,404 - myscheme.py[line:203] - INFO: TK.dat size = 313 B
+2023-11-16 12:27:36,404 - myscheme.py[line:204] - INFO: VK.dat size = 581 B
+2023-11-16 12:27:36,404 - myscheme.py[line:633] - INFO: GlobalSetup Time: 0.016311 s
+2023-11-16 12:29:39,210 - main.py[line:702] - INFO: =================Attnum: 5, wildcard: 5=================
+2023-11-16 12:29:39,210 - main.py[line:702] - INFO: =================Attnum: 5, wildcard: 5=================
+2023-11-16 12:29:39,238 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:39,238 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:39,238 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:39,238 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:39,238 - main.py[line:708] - INFO: GlobalSetup Time: 0.027914 s
+2023-11-16 12:29:39,238 - main.py[line:708] - INFO: GlobalSetup Time: 0.027914 s
+2023-11-16 12:29:39,293 - main.py[line:289] - INFO: ek.dat size = 2768 B
+2023-11-16 12:29:39,293 - main.py[line:289] - INFO: ek.dat size = 2768 B
+2023-11-16 12:29:39,293 - main.py[line:714] - INFO: SKeyGen Time: 0.054809 s
+2023-11-16 12:29:39,293 - main.py[line:714] - INFO: SKeyGen Time: 0.054809 s
+2023-11-16 12:29:39,352 - main.py[line:354] - INFO: dkR.dat size = 3846 B
+2023-11-16 12:29:39,352 - main.py[line:354] - INFO: dkR.dat size = 3846 B
+2023-11-16 12:29:39,352 - main.py[line:720] - INFO: RKeyGen Time: 0.059287 s
+2023-11-16 12:29:39,352 - main.py[line:720] - INFO: RKeyGen Time: 0.059287 s
+2023-11-16 12:29:39,359 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:39,359 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:39,359 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:39,359 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:39,359 - main.py[line:726] - INFO: AllSetup Time: 0.006886 s
+2023-11-16 12:29:39,359 - main.py[line:726] - INFO: AllSetup Time: 0.006886 s
+2023-11-16 12:29:39,360 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:39,360 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:39,410 - main.py[line:581] - INFO: token.dat size = 4026 B
+2023-11-16 12:29:39,410 - main.py[line:581] - INFO: token.dat size = 4026 B
+2023-11-16 12:29:39,410 - main.py[line:738] - INFO: TrapGen Time: 0.050448 s
+2023-11-16 12:29:39,410 - main.py[line:738] - INFO: TrapGen Time: 0.050448 s
+2023-11-16 12:29:39,413 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,413 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,413 - main.py[line:744] - INFO: Search Time: 0.003046 s
+2023-11-16 12:29:39,413 - main.py[line:744] - INFO: Search Time: 0.003046 s
+2023-11-16 12:29:39,413 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:39,413 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:39,413 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:39,413 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:39,464 - main.py[line:581] - INFO: token.dat size = 4032 B
+2023-11-16 12:29:39,464 - main.py[line:581] - INFO: token.dat size = 4032 B
+2023-11-16 12:29:39,465 - main.py[line:738] - INFO: TrapGen Time: 0.051113 s
+2023-11-16 12:29:39,465 - main.py[line:738] - INFO: TrapGen Time: 0.051113 s
+2023-11-16 12:29:39,468 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,468 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,468 - main.py[line:744] - INFO: Search Time: 0.003080 s
+2023-11-16 12:29:39,468 - main.py[line:744] - INFO: Search Time: 0.003080 s
+2023-11-16 12:29:39,468 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,468 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,468 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:39,468 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:39,520 - main.py[line:581] - INFO: token.dat size = 4038 B
+2023-11-16 12:29:39,520 - main.py[line:581] - INFO: token.dat size = 4038 B
+2023-11-16 12:29:39,520 - main.py[line:738] - INFO: TrapGen Time: 0.051781 s
+2023-11-16 12:29:39,520 - main.py[line:738] - INFO: TrapGen Time: 0.051781 s
+2023-11-16 12:29:39,523 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,523 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,523 - main.py[line:744] - INFO: Search Time: 0.003078 s
+2023-11-16 12:29:39,523 - main.py[line:744] - INFO: Search Time: 0.003078 s
+2023-11-16 12:29:39,523 - main.py[line:750] - INFO: Decrypt Time: 0.000003 s
+2023-11-16 12:29:39,523 - main.py[line:750] - INFO: Decrypt Time: 0.000003 s
+2023-11-16 12:29:39,523 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:39,523 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:39,573 - main.py[line:581] - INFO: token.dat size = 4044 B
+2023-11-16 12:29:39,573 - main.py[line:581] - INFO: token.dat size = 4044 B
+2023-11-16 12:29:39,573 - main.py[line:738] - INFO: TrapGen Time: 0.049885 s
+2023-11-16 12:29:39,573 - main.py[line:738] - INFO: TrapGen Time: 0.049885 s
+2023-11-16 12:29:39,576 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,576 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,576 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:29:39,576 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:29:39,576 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,576 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,576 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:39,576 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:39,628 - main.py[line:581] - INFO: token.dat size = 4050 B
+2023-11-16 12:29:39,628 - main.py[line:581] - INFO: token.dat size = 4050 B
+2023-11-16 12:29:39,628 - main.py[line:738] - INFO: TrapGen Time: 0.051383 s
+2023-11-16 12:29:39,628 - main.py[line:738] - INFO: TrapGen Time: 0.051383 s
+2023-11-16 12:29:39,631 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,631 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,631 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:39,631 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:39,631 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,631 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,631 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:39,631 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:39,682 - main.py[line:581] - INFO: token.dat size = 4056 B
+2023-11-16 12:29:39,682 - main.py[line:581] - INFO: token.dat size = 4056 B
+2023-11-16 12:29:39,682 - main.py[line:738] - INFO: TrapGen Time: 0.051120 s
+2023-11-16 12:29:39,682 - main.py[line:738] - INFO: TrapGen Time: 0.051120 s
+2023-11-16 12:29:39,686 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,686 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,686 - main.py[line:744] - INFO: Search Time: 0.003079 s
+2023-11-16 12:29:39,686 - main.py[line:744] - INFO: Search Time: 0.003079 s
+2023-11-16 12:29:39,686 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,686 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,686 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:39,686 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:39,739 - main.py[line:581] - INFO: token.dat size = 4062 B
+2023-11-16 12:29:39,739 - main.py[line:581] - INFO: token.dat size = 4062 B
+2023-11-16 12:29:39,739 - main.py[line:738] - INFO: TrapGen Time: 0.052806 s
+2023-11-16 12:29:39,739 - main.py[line:738] - INFO: TrapGen Time: 0.052806 s
+2023-11-16 12:29:39,742 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,742 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,742 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:39,742 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:39,742 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:39,742 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:39,742 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:39,742 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:39,792 - main.py[line:581] - INFO: token.dat size = 4068 B
+2023-11-16 12:29:39,792 - main.py[line:581] - INFO: token.dat size = 4068 B
+2023-11-16 12:29:39,792 - main.py[line:738] - INFO: TrapGen Time: 0.049667 s
+2023-11-16 12:29:39,792 - main.py[line:738] - INFO: TrapGen Time: 0.049667 s
+2023-11-16 12:29:39,795 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,795 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,795 - main.py[line:744] - INFO: Search Time: 0.003070 s
+2023-11-16 12:29:39,795 - main.py[line:744] - INFO: Search Time: 0.003070 s
+2023-11-16 12:29:39,795 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,795 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,795 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:39,795 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:39,846 - main.py[line:581] - INFO: token.dat size = 4074 B
+2023-11-16 12:29:39,846 - main.py[line:581] - INFO: token.dat size = 4074 B
+2023-11-16 12:29:39,846 - main.py[line:738] - INFO: TrapGen Time: 0.050687 s
+2023-11-16 12:29:39,846 - main.py[line:738] - INFO: TrapGen Time: 0.050687 s
+2023-11-16 12:29:39,849 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,849 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,849 - main.py[line:744] - INFO: Search Time: 0.003115 s
+2023-11-16 12:29:39,849 - main.py[line:744] - INFO: Search Time: 0.003115 s
+2023-11-16 12:29:39,849 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,849 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,849 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:39,849 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:39,901 - main.py[line:581] - INFO: token.dat size = 4081 B
+2023-11-16 12:29:39,901 - main.py[line:581] - INFO: token.dat size = 4081 B
+2023-11-16 12:29:39,901 - main.py[line:738] - INFO: TrapGen Time: 0.051545 s
+2023-11-16 12:29:39,901 - main.py[line:738] - INFO: TrapGen Time: 0.051545 s
+2023-11-16 12:29:39,904 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,904 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:39,904 - main.py[line:744] - INFO: Search Time: 0.003074 s
+2023-11-16 12:29:39,904 - main.py[line:744] - INFO: Search Time: 0.003074 s
+2023-11-16 12:29:39,904 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:39,904 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,016 - main.py[line:702] - INFO: =================Attnum: 10, wildcard: 10=================
+2023-11-16 12:29:40,016 - main.py[line:702] - INFO: =================Attnum: 10, wildcard: 10=================
+2023-11-16 12:29:40,043 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:40,043 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:40,043 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:40,043 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:40,043 - main.py[line:708] - INFO: GlobalSetup Time: 0.026766 s
+2023-11-16 12:29:40,043 - main.py[line:708] - INFO: GlobalSetup Time: 0.026766 s
+2023-11-16 12:29:40,140 - main.py[line:289] - INFO: ek.dat size = 4788 B
+2023-11-16 12:29:40,140 - main.py[line:289] - INFO: ek.dat size = 4788 B
+2023-11-16 12:29:40,140 - main.py[line:714] - INFO: SKeyGen Time: 0.096904 s
+2023-11-16 12:29:40,140 - main.py[line:714] - INFO: SKeyGen Time: 0.096904 s
+2023-11-16 12:29:40,248 - main.py[line:354] - INFO: dkR.dat size = 9356 B
+2023-11-16 12:29:40,248 - main.py[line:354] - INFO: dkR.dat size = 9356 B
+2023-11-16 12:29:40,248 - main.py[line:720] - INFO: RKeyGen Time: 0.108118 s
+2023-11-16 12:29:40,248 - main.py[line:720] - INFO: RKeyGen Time: 0.108118 s
+2023-11-16 12:29:40,255 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:40,255 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:40,255 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:40,255 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:40,255 - main.py[line:726] - INFO: AllSetup Time: 0.006536 s
+2023-11-16 12:29:40,255 - main.py[line:726] - INFO: AllSetup Time: 0.006536 s
+2023-11-16 12:29:40,255 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:40,255 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:40,328 - main.py[line:581] - INFO: token.dat size = 6666 B
+2023-11-16 12:29:40,328 - main.py[line:581] - INFO: token.dat size = 6666 B
+2023-11-16 12:29:40,328 - main.py[line:738] - INFO: TrapGen Time: 0.073169 s
+2023-11-16 12:29:40,328 - main.py[line:738] - INFO: TrapGen Time: 0.073169 s
+2023-11-16 12:29:40,331 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,331 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,332 - main.py[line:744] - INFO: Search Time: 0.003004 s
+2023-11-16 12:29:40,332 - main.py[line:744] - INFO: Search Time: 0.003004 s
+2023-11-16 12:29:40,332 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,332 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,332 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:40,332 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:40,406 - main.py[line:581] - INFO: token.dat size = 6672 B
+2023-11-16 12:29:40,406 - main.py[line:581] - INFO: token.dat size = 6672 B
+2023-11-16 12:29:40,406 - main.py[line:738] - INFO: TrapGen Time: 0.074506 s
+2023-11-16 12:29:40,406 - main.py[line:738] - INFO: TrapGen Time: 0.074506 s
+2023-11-16 12:29:40,409 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,409 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,409 - main.py[line:744] - INFO: Search Time: 0.003091 s
+2023-11-16 12:29:40,409 - main.py[line:744] - INFO: Search Time: 0.003091 s
+2023-11-16 12:29:40,410 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,410 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,410 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:40,410 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:40,484 - main.py[line:581] - INFO: token.dat size = 6678 B
+2023-11-16 12:29:40,484 - main.py[line:581] - INFO: token.dat size = 6678 B
+2023-11-16 12:29:40,484 - main.py[line:738] - INFO: TrapGen Time: 0.074385 s
+2023-11-16 12:29:40,484 - main.py[line:738] - INFO: TrapGen Time: 0.074385 s
+2023-11-16 12:29:40,487 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,487 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,487 - main.py[line:744] - INFO: Search Time: 0.003169 s
+2023-11-16 12:29:40,487 - main.py[line:744] - INFO: Search Time: 0.003169 s
+2023-11-16 12:29:40,488 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,488 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:40,488 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:40,488 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:40,562 - main.py[line:581] - INFO: token.dat size = 6684 B
+2023-11-16 12:29:40,562 - main.py[line:581] - INFO: token.dat size = 6684 B
+2023-11-16 12:29:40,562 - main.py[line:738] - INFO: TrapGen Time: 0.074819 s
+2023-11-16 12:29:40,562 - main.py[line:738] - INFO: TrapGen Time: 0.074819 s
+2023-11-16 12:29:40,566 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,566 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,566 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:40,566 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:40,566 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,566 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,566 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:40,566 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:40,641 - main.py[line:581] - INFO: token.dat size = 6690 B
+2023-11-16 12:29:40,641 - main.py[line:581] - INFO: token.dat size = 6690 B
+2023-11-16 12:29:40,641 - main.py[line:738] - INFO: TrapGen Time: 0.074929 s
+2023-11-16 12:29:40,641 - main.py[line:738] - INFO: TrapGen Time: 0.074929 s
+2023-11-16 12:29:40,644 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,644 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,644 - main.py[line:744] - INFO: Search Time: 0.003090 s
+2023-11-16 12:29:40,644 - main.py[line:744] - INFO: Search Time: 0.003090 s
+2023-11-16 12:29:40,644 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,644 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,644 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:40,644 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:40,718 - main.py[line:581] - INFO: token.dat size = 6696 B
+2023-11-16 12:29:40,718 - main.py[line:581] - INFO: token.dat size = 6696 B
+2023-11-16 12:29:40,718 - main.py[line:738] - INFO: TrapGen Time: 0.074121 s
+2023-11-16 12:29:40,718 - main.py[line:738] - INFO: TrapGen Time: 0.074121 s
+2023-11-16 12:29:40,721 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,721 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,722 - main.py[line:744] - INFO: Search Time: 0.003056 s
+2023-11-16 12:29:40,722 - main.py[line:744] - INFO: Search Time: 0.003056 s
+2023-11-16 12:29:40,722 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,722 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,722 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:40,722 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:40,796 - main.py[line:581] - INFO: token.dat size = 6702 B
+2023-11-16 12:29:40,796 - main.py[line:581] - INFO: token.dat size = 6702 B
+2023-11-16 12:29:40,796 - main.py[line:738] - INFO: TrapGen Time: 0.074564 s
+2023-11-16 12:29:40,796 - main.py[line:738] - INFO: TrapGen Time: 0.074564 s
+2023-11-16 12:29:40,799 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,799 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,799 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:40,799 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:40,800 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,800 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:40,800 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:40,800 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:40,874 - main.py[line:581] - INFO: token.dat size = 6708 B
+2023-11-16 12:29:40,874 - main.py[line:581] - INFO: token.dat size = 6708 B
+2023-11-16 12:29:40,874 - main.py[line:738] - INFO: TrapGen Time: 0.074157 s
+2023-11-16 12:29:40,874 - main.py[line:738] - INFO: TrapGen Time: 0.074157 s
+2023-11-16 12:29:40,877 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,877 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,877 - main.py[line:744] - INFO: Search Time: 0.003022 s
+2023-11-16 12:29:40,877 - main.py[line:744] - INFO: Search Time: 0.003022 s
+2023-11-16 12:29:40,877 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:40,877 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:40,877 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:40,877 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:40,952 - main.py[line:581] - INFO: token.dat size = 6714 B
+2023-11-16 12:29:40,952 - main.py[line:581] - INFO: token.dat size = 6714 B
+2023-11-16 12:29:40,952 - main.py[line:738] - INFO: TrapGen Time: 0.074343 s
+2023-11-16 12:29:40,952 - main.py[line:738] - INFO: TrapGen Time: 0.074343 s
+2023-11-16 12:29:40,955 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,955 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:40,955 - main.py[line:744] - INFO: Search Time: 0.003049 s
+2023-11-16 12:29:40,955 - main.py[line:744] - INFO: Search Time: 0.003049 s
+2023-11-16 12:29:40,955 - main.py[line:750] - INFO: Decrypt Time: 0.000003 s
+2023-11-16 12:29:40,955 - main.py[line:750] - INFO: Decrypt Time: 0.000003 s
+2023-11-16 12:29:40,955 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:40,955 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:41,029 - main.py[line:581] - INFO: token.dat size = 6721 B
+2023-11-16 12:29:41,029 - main.py[line:581] - INFO: token.dat size = 6721 B
+2023-11-16 12:29:41,029 - main.py[line:738] - INFO: TrapGen Time: 0.074108 s
+2023-11-16 12:29:41,029 - main.py[line:738] - INFO: TrapGen Time: 0.074108 s
+2023-11-16 12:29:41,032 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,032 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,033 - main.py[line:744] - INFO: Search Time: 0.003249 s
+2023-11-16 12:29:41,033 - main.py[line:744] - INFO: Search Time: 0.003249 s
+2023-11-16 12:29:41,033 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:41,033 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:41,199 - main.py[line:702] - INFO: =================Attnum: 15, wildcard: 15=================
+2023-11-16 12:29:41,199 - main.py[line:702] - INFO: =================Attnum: 15, wildcard: 15=================
+2023-11-16 12:29:41,226 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:41,226 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:41,226 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:41,226 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:41,226 - main.py[line:708] - INFO: GlobalSetup Time: 0.026649 s
+2023-11-16 12:29:41,226 - main.py[line:708] - INFO: GlobalSetup Time: 0.026649 s
+2023-11-16 12:29:41,365 - main.py[line:289] - INFO: ek.dat size = 6812 B
+2023-11-16 12:29:41,365 - main.py[line:289] - INFO: ek.dat size = 6812 B
+2023-11-16 12:29:41,365 - main.py[line:714] - INFO: SKeyGen Time: 0.139002 s
+2023-11-16 12:29:41,365 - main.py[line:714] - INFO: SKeyGen Time: 0.139002 s
+2023-11-16 12:29:41,522 - main.py[line:354] - INFO: dkR.dat size = 17066 B
+2023-11-16 12:29:41,522 - main.py[line:354] - INFO: dkR.dat size = 17066 B
+2023-11-16 12:29:41,523 - main.py[line:720] - INFO: RKeyGen Time: 0.157114 s
+2023-11-16 12:29:41,523 - main.py[line:720] - INFO: RKeyGen Time: 0.157114 s
+2023-11-16 12:29:41,529 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:41,529 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:41,529 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:41,529 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:41,529 - main.py[line:726] - INFO: AllSetup Time: 0.006684 s
+2023-11-16 12:29:41,529 - main.py[line:726] - INFO: AllSetup Time: 0.006684 s
+2023-11-16 12:29:41,529 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:41,529 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:41,626 - main.py[line:581] - INFO: token.dat size = 9306 B
+2023-11-16 12:29:41,626 - main.py[line:581] - INFO: token.dat size = 9306 B
+2023-11-16 12:29:41,626 - main.py[line:738] - INFO: TrapGen Time: 0.096857 s
+2023-11-16 12:29:41,626 - main.py[line:738] - INFO: TrapGen Time: 0.096857 s
+2023-11-16 12:29:41,629 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,629 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,630 - main.py[line:744] - INFO: Search Time: 0.003052 s
+2023-11-16 12:29:41,630 - main.py[line:744] - INFO: Search Time: 0.003052 s
+2023-11-16 12:29:41,630 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:41,630 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:41,630 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:41,630 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:41,727 - main.py[line:581] - INFO: token.dat size = 9312 B
+2023-11-16 12:29:41,727 - main.py[line:581] - INFO: token.dat size = 9312 B
+2023-11-16 12:29:41,727 - main.py[line:738] - INFO: TrapGen Time: 0.097376 s
+2023-11-16 12:29:41,727 - main.py[line:738] - INFO: TrapGen Time: 0.097376 s
+2023-11-16 12:29:41,730 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,730 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,730 - main.py[line:744] - INFO: Search Time: 0.003030 s
+2023-11-16 12:29:41,730 - main.py[line:744] - INFO: Search Time: 0.003030 s
+2023-11-16 12:29:41,730 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,730 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,730 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:41,730 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:41,828 - main.py[line:581] - INFO: token.dat size = 9318 B
+2023-11-16 12:29:41,828 - main.py[line:581] - INFO: token.dat size = 9318 B
+2023-11-16 12:29:41,828 - main.py[line:738] - INFO: TrapGen Time: 0.097825 s
+2023-11-16 12:29:41,828 - main.py[line:738] - INFO: TrapGen Time: 0.097825 s
+2023-11-16 12:29:41,831 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,831 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,832 - main.py[line:744] - INFO: Search Time: 0.003053 s
+2023-11-16 12:29:41,832 - main.py[line:744] - INFO: Search Time: 0.003053 s
+2023-11-16 12:29:41,832 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,832 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,832 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:41,832 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:41,930 - main.py[line:581] - INFO: token.dat size = 9324 B
+2023-11-16 12:29:41,930 - main.py[line:581] - INFO: token.dat size = 9324 B
+2023-11-16 12:29:41,930 - main.py[line:738] - INFO: TrapGen Time: 0.098175 s
+2023-11-16 12:29:41,930 - main.py[line:738] - INFO: TrapGen Time: 0.098175 s
+2023-11-16 12:29:41,933 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,933 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:41,933 - main.py[line:744] - INFO: Search Time: 0.003032 s
+2023-11-16 12:29:41,933 - main.py[line:744] - INFO: Search Time: 0.003032 s
+2023-11-16 12:29:41,933 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,933 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:41,933 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:41,933 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:42,030 - main.py[line:581] - INFO: token.dat size = 9330 B
+2023-11-16 12:29:42,030 - main.py[line:581] - INFO: token.dat size = 9330 B
+2023-11-16 12:29:42,031 - main.py[line:738] - INFO: TrapGen Time: 0.097223 s
+2023-11-16 12:29:42,031 - main.py[line:738] - INFO: TrapGen Time: 0.097223 s
+2023-11-16 12:29:42,034 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,034 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,034 - main.py[line:744] - INFO: Search Time: 0.003021 s
+2023-11-16 12:29:42,034 - main.py[line:744] - INFO: Search Time: 0.003021 s
+2023-11-16 12:29:42,034 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,034 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,034 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:42,034 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:42,131 - main.py[line:581] - INFO: token.dat size = 9336 B
+2023-11-16 12:29:42,131 - main.py[line:581] - INFO: token.dat size = 9336 B
+2023-11-16 12:29:42,131 - main.py[line:738] - INFO: TrapGen Time: 0.097077 s
+2023-11-16 12:29:42,131 - main.py[line:738] - INFO: TrapGen Time: 0.097077 s
+2023-11-16 12:29:42,134 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,134 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,134 - main.py[line:744] - INFO: Search Time: 0.003039 s
+2023-11-16 12:29:42,134 - main.py[line:744] - INFO: Search Time: 0.003039 s
+2023-11-16 12:29:42,134 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,134 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,134 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:42,134 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:42,232 - main.py[line:581] - INFO: token.dat size = 9342 B
+2023-11-16 12:29:42,232 - main.py[line:581] - INFO: token.dat size = 9342 B
+2023-11-16 12:29:42,232 - main.py[line:738] - INFO: TrapGen Time: 0.098015 s
+2023-11-16 12:29:42,232 - main.py[line:738] - INFO: TrapGen Time: 0.098015 s
+2023-11-16 12:29:42,236 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,236 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,236 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:42,236 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:42,236 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,236 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,236 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:42,236 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:42,333 - main.py[line:581] - INFO: token.dat size = 9348 B
+2023-11-16 12:29:42,333 - main.py[line:581] - INFO: token.dat size = 9348 B
+2023-11-16 12:29:42,333 - main.py[line:738] - INFO: TrapGen Time: 0.097438 s
+2023-11-16 12:29:42,333 - main.py[line:738] - INFO: TrapGen Time: 0.097438 s
+2023-11-16 12:29:42,336 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,336 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,337 - main.py[line:744] - INFO: Search Time: 0.003190 s
+2023-11-16 12:29:42,337 - main.py[line:744] - INFO: Search Time: 0.003190 s
+2023-11-16 12:29:42,337 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,337 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,337 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:42,337 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:42,435 - main.py[line:581] - INFO: token.dat size = 9354 B
+2023-11-16 12:29:42,435 - main.py[line:581] - INFO: token.dat size = 9354 B
+2023-11-16 12:29:42,436 - main.py[line:738] - INFO: TrapGen Time: 0.098776 s
+2023-11-16 12:29:42,436 - main.py[line:738] - INFO: TrapGen Time: 0.098776 s
+2023-11-16 12:29:42,439 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,439 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,439 - main.py[line:744] - INFO: Search Time: 0.003174 s
+2023-11-16 12:29:42,439 - main.py[line:744] - INFO: Search Time: 0.003174 s
+2023-11-16 12:29:42,439 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,439 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:42,439 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:42,439 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:42,537 - main.py[line:581] - INFO: token.dat size = 9361 B
+2023-11-16 12:29:42,537 - main.py[line:581] - INFO: token.dat size = 9361 B
+2023-11-16 12:29:42,538 - main.py[line:738] - INFO: TrapGen Time: 0.098358 s
+2023-11-16 12:29:42,538 - main.py[line:738] - INFO: TrapGen Time: 0.098358 s
+2023-11-16 12:29:42,541 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,541 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:42,541 - main.py[line:744] - INFO: Search Time: 0.003091 s
+2023-11-16 12:29:42,541 - main.py[line:744] - INFO: Search Time: 0.003091 s
+2023-11-16 12:29:42,541 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,541 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:42,762 - main.py[line:702] - INFO: =================Attnum: 20, wildcard: 20=================
+2023-11-16 12:29:42,762 - main.py[line:702] - INFO: =================Attnum: 20, wildcard: 20=================
+2023-11-16 12:29:42,789 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:42,789 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:42,789 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:42,789 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:42,789 - main.py[line:708] - INFO: GlobalSetup Time: 0.026721 s
+2023-11-16 12:29:42,789 - main.py[line:708] - INFO: GlobalSetup Time: 0.026721 s
+2023-11-16 12:29:42,970 - main.py[line:289] - INFO: ek.dat size = 8837 B
+2023-11-16 12:29:42,970 - main.py[line:289] - INFO: ek.dat size = 8837 B
+2023-11-16 12:29:42,970 - main.py[line:714] - INFO: SKeyGen Time: 0.181458 s
+2023-11-16 12:29:42,970 - main.py[line:714] - INFO: SKeyGen Time: 0.181458 s
+2023-11-16 12:29:43,176 - main.py[line:354] - INFO: dkR.dat size = 26976 B
+2023-11-16 12:29:43,176 - main.py[line:354] - INFO: dkR.dat size = 26976 B
+2023-11-16 12:29:43,177 - main.py[line:720] - INFO: RKeyGen Time: 0.205996 s
+2023-11-16 12:29:43,177 - main.py[line:720] - INFO: RKeyGen Time: 0.205996 s
+2023-11-16 12:29:43,183 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:43,183 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:43,184 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:43,184 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:43,184 - main.py[line:726] - INFO: AllSetup Time: 0.006962 s
+2023-11-16 12:29:43,184 - main.py[line:726] - INFO: AllSetup Time: 0.006962 s
+2023-11-16 12:29:43,184 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:43,184 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:43,306 - main.py[line:581] - INFO: token.dat size = 11946 B
+2023-11-16 12:29:43,306 - main.py[line:581] - INFO: token.dat size = 11946 B
+2023-11-16 12:29:43,307 - main.py[line:738] - INFO: TrapGen Time: 0.122750 s
+2023-11-16 12:29:43,307 - main.py[line:738] - INFO: TrapGen Time: 0.122750 s
+2023-11-16 12:29:43,310 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,310 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,310 - main.py[line:744] - INFO: Search Time: 0.003115 s
+2023-11-16 12:29:43,310 - main.py[line:744] - INFO: Search Time: 0.003115 s
+2023-11-16 12:29:43,310 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:43,310 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:43,310 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:43,310 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:43,431 - main.py[line:581] - INFO: token.dat size = 11952 B
+2023-11-16 12:29:43,431 - main.py[line:581] - INFO: token.dat size = 11952 B
+2023-11-16 12:29:43,431 - main.py[line:738] - INFO: TrapGen Time: 0.120847 s
+2023-11-16 12:29:43,431 - main.py[line:738] - INFO: TrapGen Time: 0.120847 s
+2023-11-16 12:29:43,434 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,434 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,434 - main.py[line:744] - INFO: Search Time: 0.003066 s
+2023-11-16 12:29:43,434 - main.py[line:744] - INFO: Search Time: 0.003066 s
+2023-11-16 12:29:43,434 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,434 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,434 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:43,434 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:43,555 - main.py[line:581] - INFO: token.dat size = 11958 B
+2023-11-16 12:29:43,555 - main.py[line:581] - INFO: token.dat size = 11958 B
+2023-11-16 12:29:43,555 - main.py[line:738] - INFO: TrapGen Time: 0.120761 s
+2023-11-16 12:29:43,555 - main.py[line:738] - INFO: TrapGen Time: 0.120761 s
+2023-11-16 12:29:43,558 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,558 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,558 - main.py[line:744] - INFO: Search Time: 0.003120 s
+2023-11-16 12:29:43,558 - main.py[line:744] - INFO: Search Time: 0.003120 s
+2023-11-16 12:29:43,558 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,558 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,558 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:43,558 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:43,680 - main.py[line:581] - INFO: token.dat size = 11964 B
+2023-11-16 12:29:43,680 - main.py[line:581] - INFO: token.dat size = 11964 B
+2023-11-16 12:29:43,680 - main.py[line:738] - INFO: TrapGen Time: 0.121515 s
+2023-11-16 12:29:43,680 - main.py[line:738] - INFO: TrapGen Time: 0.121515 s
+2023-11-16 12:29:43,683 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,683 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,683 - main.py[line:744] - INFO: Search Time: 0.003124 s
+2023-11-16 12:29:43,683 - main.py[line:744] - INFO: Search Time: 0.003124 s
+2023-11-16 12:29:43,683 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,683 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:43,683 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:43,683 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:43,806 - main.py[line:581] - INFO: token.dat size = 11970 B
+2023-11-16 12:29:43,806 - main.py[line:581] - INFO: token.dat size = 11970 B
+2023-11-16 12:29:43,806 - main.py[line:738] - INFO: TrapGen Time: 0.122344 s
+2023-11-16 12:29:43,806 - main.py[line:738] - INFO: TrapGen Time: 0.122344 s
+2023-11-16 12:29:43,809 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,809 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,809 - main.py[line:744] - INFO: Search Time: 0.003086 s
+2023-11-16 12:29:43,809 - main.py[line:744] - INFO: Search Time: 0.003086 s
+2023-11-16 12:29:43,809 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:43,809 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:43,809 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:43,809 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:43,931 - main.py[line:581] - INFO: token.dat size = 11976 B
+2023-11-16 12:29:43,931 - main.py[line:581] - INFO: token.dat size = 11976 B
+2023-11-16 12:29:43,931 - main.py[line:738] - INFO: TrapGen Time: 0.121982 s
+2023-11-16 12:29:43,931 - main.py[line:738] - INFO: TrapGen Time: 0.121982 s
+2023-11-16 12:29:43,934 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,934 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:43,935 - main.py[line:744] - INFO: Search Time: 0.003169 s
+2023-11-16 12:29:43,935 - main.py[line:744] - INFO: Search Time: 0.003169 s
+2023-11-16 12:29:43,935 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:43,935 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:43,935 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:43,935 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:44,057 - main.py[line:581] - INFO: token.dat size = 11982 B
+2023-11-16 12:29:44,057 - main.py[line:581] - INFO: token.dat size = 11982 B
+2023-11-16 12:29:44,057 - main.py[line:738] - INFO: TrapGen Time: 0.121834 s
+2023-11-16 12:29:44,057 - main.py[line:738] - INFO: TrapGen Time: 0.121834 s
+2023-11-16 12:29:44,060 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,060 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,060 - main.py[line:744] - INFO: Search Time: 0.003098 s
+2023-11-16 12:29:44,060 - main.py[line:744] - INFO: Search Time: 0.003098 s
+2023-11-16 12:29:44,060 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:44,060 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:44,060 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:44,060 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:44,180 - main.py[line:581] - INFO: token.dat size = 11988 B
+2023-11-16 12:29:44,180 - main.py[line:581] - INFO: token.dat size = 11988 B
+2023-11-16 12:29:44,180 - main.py[line:738] - INFO: TrapGen Time: 0.119832 s
+2023-11-16 12:29:44,180 - main.py[line:738] - INFO: TrapGen Time: 0.119832 s
+2023-11-16 12:29:44,183 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,183 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,183 - main.py[line:744] - INFO: Search Time: 0.003108 s
+2023-11-16 12:29:44,183 - main.py[line:744] - INFO: Search Time: 0.003108 s
+2023-11-16 12:29:44,183 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:44,183 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:44,183 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:44,183 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:44,305 - main.py[line:581] - INFO: token.dat size = 11994 B
+2023-11-16 12:29:44,305 - main.py[line:581] - INFO: token.dat size = 11994 B
+2023-11-16 12:29:44,305 - main.py[line:738] - INFO: TrapGen Time: 0.121266 s
+2023-11-16 12:29:44,305 - main.py[line:738] - INFO: TrapGen Time: 0.121266 s
+2023-11-16 12:29:44,308 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,308 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,308 - main.py[line:744] - INFO: Search Time: 0.003035 s
+2023-11-16 12:29:44,308 - main.py[line:744] - INFO: Search Time: 0.003035 s
+2023-11-16 12:29:44,308 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:44,308 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:44,308 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:44,308 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:44,430 - main.py[line:581] - INFO: token.dat size = 12001 B
+2023-11-16 12:29:44,430 - main.py[line:581] - INFO: token.dat size = 12001 B
+2023-11-16 12:29:44,430 - main.py[line:738] - INFO: TrapGen Time: 0.122150 s
+2023-11-16 12:29:44,430 - main.py[line:738] - INFO: TrapGen Time: 0.122150 s
+2023-11-16 12:29:44,433 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,433 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:44,434 - main.py[line:744] - INFO: Search Time: 0.003143 s
+2023-11-16 12:29:44,434 - main.py[line:744] - INFO: Search Time: 0.003143 s
+2023-11-16 12:29:44,434 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:44,434 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:44,711 - main.py[line:702] - INFO: =================Attnum: 25, wildcard: 25=================
+2023-11-16 12:29:44,711 - main.py[line:702] - INFO: =================Attnum: 25, wildcard: 25=================
+2023-11-16 12:29:44,739 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:44,739 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:44,739 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:44,739 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:44,740 - main.py[line:708] - INFO: GlobalSetup Time: 0.026791 s
+2023-11-16 12:29:44,740 - main.py[line:708] - INFO: GlobalSetup Time: 0.026791 s
+2023-11-16 12:29:44,964 - main.py[line:289] - INFO: ek.dat size = 10862 B
+2023-11-16 12:29:44,964 - main.py[line:289] - INFO: ek.dat size = 10862 B
+2023-11-16 12:29:44,964 - main.py[line:714] - INFO: SKeyGen Time: 0.224353 s
+2023-11-16 12:29:44,964 - main.py[line:714] - INFO: SKeyGen Time: 0.224353 s
+2023-11-16 12:29:45,220 - main.py[line:354] - INFO: dkR.dat size = 39086 B
+2023-11-16 12:29:45,220 - main.py[line:354] - INFO: dkR.dat size = 39086 B
+2023-11-16 12:29:45,220 - main.py[line:720] - INFO: RKeyGen Time: 0.256189 s
+2023-11-16 12:29:45,220 - main.py[line:720] - INFO: RKeyGen Time: 0.256189 s
+2023-11-16 12:29:45,227 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:45,227 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:45,227 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:45,227 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:45,227 - main.py[line:726] - INFO: AllSetup Time: 0.006834 s
+2023-11-16 12:29:45,227 - main.py[line:726] - INFO: AllSetup Time: 0.006834 s
+2023-11-16 12:29:45,227 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:45,227 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:45,373 - main.py[line:581] - INFO: token.dat size = 14586 B
+2023-11-16 12:29:45,373 - main.py[line:581] - INFO: token.dat size = 14586 B
+2023-11-16 12:29:45,373 - main.py[line:738] - INFO: TrapGen Time: 0.145302 s
+2023-11-16 12:29:45,373 - main.py[line:738] - INFO: TrapGen Time: 0.145302 s
+2023-11-16 12:29:45,376 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,376 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,376 - main.py[line:744] - INFO: Search Time: 0.003003 s
+2023-11-16 12:29:45,376 - main.py[line:744] - INFO: Search Time: 0.003003 s
+2023-11-16 12:29:45,376 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,376 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,376 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:45,376 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:45,520 - main.py[line:581] - INFO: token.dat size = 14592 B
+2023-11-16 12:29:45,520 - main.py[line:581] - INFO: token.dat size = 14592 B
+2023-11-16 12:29:45,520 - main.py[line:738] - INFO: TrapGen Time: 0.144214 s
+2023-11-16 12:29:45,520 - main.py[line:738] - INFO: TrapGen Time: 0.144214 s
+2023-11-16 12:29:45,523 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,523 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,523 - main.py[line:744] - INFO: Search Time: 0.003034 s
+2023-11-16 12:29:45,523 - main.py[line:744] - INFO: Search Time: 0.003034 s
+2023-11-16 12:29:45,524 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:45,524 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:45,524 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:45,524 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:45,665 - main.py[line:581] - INFO: token.dat size = 14598 B
+2023-11-16 12:29:45,665 - main.py[line:581] - INFO: token.dat size = 14598 B
+2023-11-16 12:29:45,665 - main.py[line:738] - INFO: TrapGen Time: 0.141484 s
+2023-11-16 12:29:45,665 - main.py[line:738] - INFO: TrapGen Time: 0.141484 s
+2023-11-16 12:29:45,668 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,668 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,668 - main.py[line:744] - INFO: Search Time: 0.003078 s
+2023-11-16 12:29:45,668 - main.py[line:744] - INFO: Search Time: 0.003078 s
+2023-11-16 12:29:45,668 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:45,668 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:45,669 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:45,669 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:45,814 - main.py[line:581] - INFO: token.dat size = 14604 B
+2023-11-16 12:29:45,814 - main.py[line:581] - INFO: token.dat size = 14604 B
+2023-11-16 12:29:45,815 - main.py[line:738] - INFO: TrapGen Time: 0.145964 s
+2023-11-16 12:29:45,815 - main.py[line:738] - INFO: TrapGen Time: 0.145964 s
+2023-11-16 12:29:45,818 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,818 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,818 - main.py[line:744] - INFO: Search Time: 0.003104 s
+2023-11-16 12:29:45,818 - main.py[line:744] - INFO: Search Time: 0.003104 s
+2023-11-16 12:29:45,818 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,818 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,818 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:45,818 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:45,963 - main.py[line:581] - INFO: token.dat size = 14610 B
+2023-11-16 12:29:45,963 - main.py[line:581] - INFO: token.dat size = 14610 B
+2023-11-16 12:29:45,963 - main.py[line:738] - INFO: TrapGen Time: 0.144906 s
+2023-11-16 12:29:45,963 - main.py[line:738] - INFO: TrapGen Time: 0.144906 s
+2023-11-16 12:29:45,966 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,966 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:45,966 - main.py[line:744] - INFO: Search Time: 0.003045 s
+2023-11-16 12:29:45,966 - main.py[line:744] - INFO: Search Time: 0.003045 s
+2023-11-16 12:29:45,966 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,966 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:45,966 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:45,966 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:46,109 - main.py[line:581] - INFO: token.dat size = 14616 B
+2023-11-16 12:29:46,109 - main.py[line:581] - INFO: token.dat size = 14616 B
+2023-11-16 12:29:46,110 - main.py[line:738] - INFO: TrapGen Time: 0.143125 s
+2023-11-16 12:29:46,110 - main.py[line:738] - INFO: TrapGen Time: 0.143125 s
+2023-11-16 12:29:46,113 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,113 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,113 - main.py[line:744] - INFO: Search Time: 0.003084 s
+2023-11-16 12:29:46,113 - main.py[line:744] - INFO: Search Time: 0.003084 s
+2023-11-16 12:29:46,113 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,113 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,113 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:46,113 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:46,257 - main.py[line:581] - INFO: token.dat size = 14622 B
+2023-11-16 12:29:46,257 - main.py[line:581] - INFO: token.dat size = 14622 B
+2023-11-16 12:29:46,257 - main.py[line:738] - INFO: TrapGen Time: 0.144333 s
+2023-11-16 12:29:46,257 - main.py[line:738] - INFO: TrapGen Time: 0.144333 s
+2023-11-16 12:29:46,260 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,260 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,260 - main.py[line:744] - INFO: Search Time: 0.003065 s
+2023-11-16 12:29:46,260 - main.py[line:744] - INFO: Search Time: 0.003065 s
+2023-11-16 12:29:46,261 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,261 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,261 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:46,261 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:46,404 - main.py[line:581] - INFO: token.dat size = 14628 B
+2023-11-16 12:29:46,404 - main.py[line:581] - INFO: token.dat size = 14628 B
+2023-11-16 12:29:46,405 - main.py[line:738] - INFO: TrapGen Time: 0.143838 s
+2023-11-16 12:29:46,405 - main.py[line:738] - INFO: TrapGen Time: 0.143838 s
+2023-11-16 12:29:46,408 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,408 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,408 - main.py[line:744] - INFO: Search Time: 0.003002 s
+2023-11-16 12:29:46,408 - main.py[line:744] - INFO: Search Time: 0.003002 s
+2023-11-16 12:29:46,408 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:46,408 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:46,408 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:46,408 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:46,551 - main.py[line:581] - INFO: token.dat size = 14634 B
+2023-11-16 12:29:46,551 - main.py[line:581] - INFO: token.dat size = 14634 B
+2023-11-16 12:29:46,551 - main.py[line:738] - INFO: TrapGen Time: 0.142807 s
+2023-11-16 12:29:46,551 - main.py[line:738] - INFO: TrapGen Time: 0.142807 s
+2023-11-16 12:29:46,554 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,554 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,554 - main.py[line:744] - INFO: Search Time: 0.003047 s
+2023-11-16 12:29:46,554 - main.py[line:744] - INFO: Search Time: 0.003047 s
+2023-11-16 12:29:46,554 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,554 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:46,554 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:46,554 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:46,698 - main.py[line:581] - INFO: token.dat size = 14641 B
+2023-11-16 12:29:46,698 - main.py[line:581] - INFO: token.dat size = 14641 B
+2023-11-16 12:29:46,698 - main.py[line:738] - INFO: TrapGen Time: 0.143830 s
+2023-11-16 12:29:46,698 - main.py[line:738] - INFO: TrapGen Time: 0.143830 s
+2023-11-16 12:29:46,701 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,701 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:46,701 - main.py[line:744] - INFO: Search Time: 0.003077 s
+2023-11-16 12:29:46,701 - main.py[line:744] - INFO: Search Time: 0.003077 s
+2023-11-16 12:29:46,701 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:46,701 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:47,031 - main.py[line:702] - INFO: =================Attnum: 30, wildcard: 30=================
+2023-11-16 12:29:47,031 - main.py[line:702] - INFO: =================Attnum: 30, wildcard: 30=================
+2023-11-16 12:29:47,058 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:47,058 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:47,058 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:47,058 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:47,058 - main.py[line:708] - INFO: GlobalSetup Time: 0.026685 s
+2023-11-16 12:29:47,058 - main.py[line:708] - INFO: GlobalSetup Time: 0.026685 s
+2023-11-16 12:29:47,324 - main.py[line:289] - INFO: ek.dat size = 12887 B
+2023-11-16 12:29:47,324 - main.py[line:289] - INFO: ek.dat size = 12887 B
+2023-11-16 12:29:47,324 - main.py[line:714] - INFO: SKeyGen Time: 0.265680 s
+2023-11-16 12:29:47,324 - main.py[line:714] - INFO: SKeyGen Time: 0.265680 s
+2023-11-16 12:29:47,630 - main.py[line:354] - INFO: dkR.dat size = 53396 B
+2023-11-16 12:29:47,630 - main.py[line:354] - INFO: dkR.dat size = 53396 B
+2023-11-16 12:29:47,630 - main.py[line:720] - INFO: RKeyGen Time: 0.306277 s
+2023-11-16 12:29:47,630 - main.py[line:720] - INFO: RKeyGen Time: 0.306277 s
+2023-11-16 12:29:47,637 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:47,637 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:47,637 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:47,637 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:47,637 - main.py[line:726] - INFO: AllSetup Time: 0.006728 s
+2023-11-16 12:29:47,637 - main.py[line:726] - INFO: AllSetup Time: 0.006728 s
+2023-11-16 12:29:47,637 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:47,637 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:47,804 - main.py[line:581] - INFO: token.dat size = 17226 B
+2023-11-16 12:29:47,804 - main.py[line:581] - INFO: token.dat size = 17226 B
+2023-11-16 12:29:47,804 - main.py[line:738] - INFO: TrapGen Time: 0.167095 s
+2023-11-16 12:29:47,804 - main.py[line:738] - INFO: TrapGen Time: 0.167095 s
+2023-11-16 12:29:47,807 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:47,807 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:47,808 - main.py[line:744] - INFO: Search Time: 0.003010 s
+2023-11-16 12:29:47,808 - main.py[line:744] - INFO: Search Time: 0.003010 s
+2023-11-16 12:29:47,808 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:47,808 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:47,808 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:47,808 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:47,975 - main.py[line:581] - INFO: token.dat size = 17232 B
+2023-11-16 12:29:47,975 - main.py[line:581] - INFO: token.dat size = 17232 B
+2023-11-16 12:29:47,975 - main.py[line:738] - INFO: TrapGen Time: 0.167037 s
+2023-11-16 12:29:47,975 - main.py[line:738] - INFO: TrapGen Time: 0.167037 s
+2023-11-16 12:29:47,978 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:47,978 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:47,978 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:47,978 - main.py[line:744] - INFO: Search Time: 0.003029 s
+2023-11-16 12:29:47,978 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:47,978 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:47,978 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:47,978 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:48,146 - main.py[line:581] - INFO: token.dat size = 17238 B
+2023-11-16 12:29:48,146 - main.py[line:581] - INFO: token.dat size = 17238 B
+2023-11-16 12:29:48,146 - main.py[line:738] - INFO: TrapGen Time: 0.167756 s
+2023-11-16 12:29:48,146 - main.py[line:738] - INFO: TrapGen Time: 0.167756 s
+2023-11-16 12:29:48,149 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,149 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,149 - main.py[line:744] - INFO: Search Time: 0.003051 s
+2023-11-16 12:29:48,149 - main.py[line:744] - INFO: Search Time: 0.003051 s
+2023-11-16 12:29:48,149 - main.py[line:750] - INFO: Decrypt Time: 0.000012 s
+2023-11-16 12:29:48,149 - main.py[line:750] - INFO: Decrypt Time: 0.000012 s
+2023-11-16 12:29:48,149 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:48,149 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:48,315 - main.py[line:581] - INFO: token.dat size = 17244 B
+2023-11-16 12:29:48,315 - main.py[line:581] - INFO: token.dat size = 17244 B
+2023-11-16 12:29:48,315 - main.py[line:738] - INFO: TrapGen Time: 0.165875 s
+2023-11-16 12:29:48,315 - main.py[line:738] - INFO: TrapGen Time: 0.165875 s
+2023-11-16 12:29:48,318 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,318 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,318 - main.py[line:744] - INFO: Search Time: 0.003113 s
+2023-11-16 12:29:48,318 - main.py[line:744] - INFO: Search Time: 0.003113 s
+2023-11-16 12:29:48,319 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:48,319 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:48,319 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:48,319 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:48,488 - main.py[line:581] - INFO: token.dat size = 17250 B
+2023-11-16 12:29:48,488 - main.py[line:581] - INFO: token.dat size = 17250 B
+2023-11-16 12:29:48,489 - main.py[line:738] - INFO: TrapGen Time: 0.169777 s
+2023-11-16 12:29:48,489 - main.py[line:738] - INFO: TrapGen Time: 0.169777 s
+2023-11-16 12:29:48,492 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,492 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,492 - main.py[line:744] - INFO: Search Time: 0.003061 s
+2023-11-16 12:29:48,492 - main.py[line:744] - INFO: Search Time: 0.003061 s
+2023-11-16 12:29:48,492 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:48,492 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:48,492 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:48,492 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:48,661 - main.py[line:581] - INFO: token.dat size = 17256 B
+2023-11-16 12:29:48,661 - main.py[line:581] - INFO: token.dat size = 17256 B
+2023-11-16 12:29:48,661 - main.py[line:738] - INFO: TrapGen Time: 0.169515 s
+2023-11-16 12:29:48,661 - main.py[line:738] - INFO: TrapGen Time: 0.169515 s
+2023-11-16 12:29:48,665 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,665 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,665 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:48,665 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:48,665 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:48,665 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:48,665 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:48,665 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:48,832 - main.py[line:581] - INFO: token.dat size = 17262 B
+2023-11-16 12:29:48,832 - main.py[line:581] - INFO: token.dat size = 17262 B
+2023-11-16 12:29:48,832 - main.py[line:738] - INFO: TrapGen Time: 0.166874 s
+2023-11-16 12:29:48,832 - main.py[line:738] - INFO: TrapGen Time: 0.166874 s
+2023-11-16 12:29:48,835 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,835 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:48,835 - main.py[line:744] - INFO: Search Time: 0.003136 s
+2023-11-16 12:29:48,835 - main.py[line:744] - INFO: Search Time: 0.003136 s
+2023-11-16 12:29:48,835 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:48,835 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:48,835 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:48,835 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:49,004 - main.py[line:581] - INFO: token.dat size = 17268 B
+2023-11-16 12:29:49,004 - main.py[line:581] - INFO: token.dat size = 17268 B
+2023-11-16 12:29:49,004 - main.py[line:738] - INFO: TrapGen Time: 0.168542 s
+2023-11-16 12:29:49,004 - main.py[line:738] - INFO: TrapGen Time: 0.168542 s
+2023-11-16 12:29:49,007 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,007 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,007 - main.py[line:744] - INFO: Search Time: 0.003062 s
+2023-11-16 12:29:49,007 - main.py[line:744] - INFO: Search Time: 0.003062 s
+2023-11-16 12:29:49,007 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:49,007 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:49,007 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:49,007 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:49,173 - main.py[line:581] - INFO: token.dat size = 17274 B
+2023-11-16 12:29:49,173 - main.py[line:581] - INFO: token.dat size = 17274 B
+2023-11-16 12:29:49,173 - main.py[line:738] - INFO: TrapGen Time: 0.165472 s
+2023-11-16 12:29:49,173 - main.py[line:738] - INFO: TrapGen Time: 0.165472 s
+2023-11-16 12:29:49,176 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,176 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,176 - main.py[line:744] - INFO: Search Time: 0.003201 s
+2023-11-16 12:29:49,176 - main.py[line:744] - INFO: Search Time: 0.003201 s
+2023-11-16 12:29:49,176 - main.py[line:750] - INFO: Decrypt Time: 0.000013 s
+2023-11-16 12:29:49,176 - main.py[line:750] - INFO: Decrypt Time: 0.000013 s
+2023-11-16 12:29:49,176 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:49,176 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:49,345 - main.py[line:581] - INFO: token.dat size = 17281 B
+2023-11-16 12:29:49,345 - main.py[line:581] - INFO: token.dat size = 17281 B
+2023-11-16 12:29:49,345 - main.py[line:738] - INFO: TrapGen Time: 0.168760 s
+2023-11-16 12:29:49,345 - main.py[line:738] - INFO: TrapGen Time: 0.168760 s
+2023-11-16 12:29:49,348 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,348 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:49,348 - main.py[line:744] - INFO: Search Time: 0.003048 s
+2023-11-16 12:29:49,348 - main.py[line:744] - INFO: Search Time: 0.003048 s
+2023-11-16 12:29:49,348 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:49,348 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:49,733 - main.py[line:702] - INFO: =================Attnum: 35, wildcard: 35=================
+2023-11-16 12:29:49,733 - main.py[line:702] - INFO: =================Attnum: 35, wildcard: 35=================
+2023-11-16 12:29:49,760 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:49,760 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:49,760 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:49,760 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:49,760 - main.py[line:708] - INFO: GlobalSetup Time: 0.026739 s
+2023-11-16 12:29:49,760 - main.py[line:708] - INFO: GlobalSetup Time: 0.026739 s
+2023-11-16 12:29:50,069 - main.py[line:289] - INFO: ek.dat size = 14912 B
+2023-11-16 12:29:50,069 - main.py[line:289] - INFO: ek.dat size = 14912 B
+2023-11-16 12:29:50,069 - main.py[line:714] - INFO: SKeyGen Time: 0.308389 s
+2023-11-16 12:29:50,069 - main.py[line:714] - INFO: SKeyGen Time: 0.308389 s
+2023-11-16 12:29:50,426 - main.py[line:354] - INFO: dkR.dat size = 69906 B
+2023-11-16 12:29:50,426 - main.py[line:354] - INFO: dkR.dat size = 69906 B
+2023-11-16 12:29:50,426 - main.py[line:720] - INFO: RKeyGen Time: 0.356648 s
+2023-11-16 12:29:50,426 - main.py[line:720] - INFO: RKeyGen Time: 0.356648 s
+2023-11-16 12:29:50,432 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:50,432 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:50,432 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:50,432 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:50,433 - main.py[line:726] - INFO: AllSetup Time: 0.006842 s
+2023-11-16 12:29:50,433 - main.py[line:726] - INFO: AllSetup Time: 0.006842 s
+2023-11-16 12:29:50,433 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:50,433 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:50,621 - main.py[line:581] - INFO: token.dat size = 19866 B
+2023-11-16 12:29:50,621 - main.py[line:581] - INFO: token.dat size = 19866 B
+2023-11-16 12:29:50,622 - main.py[line:738] - INFO: TrapGen Time: 0.188841 s
+2023-11-16 12:29:50,622 - main.py[line:738] - INFO: TrapGen Time: 0.188841 s
+2023-11-16 12:29:50,625 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:50,625 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:50,625 - main.py[line:744] - INFO: Search Time: 0.003049 s
+2023-11-16 12:29:50,625 - main.py[line:744] - INFO: Search Time: 0.003049 s
+2023-11-16 12:29:50,625 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:50,625 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:50,625 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:50,625 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:50,817 - main.py[line:581] - INFO: token.dat size = 19872 B
+2023-11-16 12:29:50,817 - main.py[line:581] - INFO: token.dat size = 19872 B
+2023-11-16 12:29:50,817 - main.py[line:738] - INFO: TrapGen Time: 0.191927 s
+2023-11-16 12:29:50,817 - main.py[line:738] - INFO: TrapGen Time: 0.191927 s
+2023-11-16 12:29:50,820 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:50,820 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:50,820 - main.py[line:744] - INFO: Search Time: 0.003026 s
+2023-11-16 12:29:50,820 - main.py[line:744] - INFO: Search Time: 0.003026 s
+2023-11-16 12:29:50,820 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:50,820 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:50,820 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:50,820 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:51,011 - main.py[line:581] - INFO: token.dat size = 19878 B
+2023-11-16 12:29:51,011 - main.py[line:581] - INFO: token.dat size = 19878 B
+2023-11-16 12:29:51,011 - main.py[line:738] - INFO: TrapGen Time: 0.191206 s
+2023-11-16 12:29:51,011 - main.py[line:738] - INFO: TrapGen Time: 0.191206 s
+2023-11-16 12:29:51,015 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,015 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,015 - main.py[line:744] - INFO: Search Time: 0.003289 s
+2023-11-16 12:29:51,015 - main.py[line:744] - INFO: Search Time: 0.003289 s
+2023-11-16 12:29:51,015 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,015 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,015 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:51,015 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:51,205 - main.py[line:581] - INFO: token.dat size = 19884 B
+2023-11-16 12:29:51,205 - main.py[line:581] - INFO: token.dat size = 19884 B
+2023-11-16 12:29:51,205 - main.py[line:738] - INFO: TrapGen Time: 0.190172 s
+2023-11-16 12:29:51,205 - main.py[line:738] - INFO: TrapGen Time: 0.190172 s
+2023-11-16 12:29:51,208 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,208 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,209 - main.py[line:744] - INFO: Search Time: 0.003101 s
+2023-11-16 12:29:51,209 - main.py[line:744] - INFO: Search Time: 0.003101 s
+2023-11-16 12:29:51,209 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,209 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,209 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:51,209 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:51,401 - main.py[line:581] - INFO: token.dat size = 19890 B
+2023-11-16 12:29:51,401 - main.py[line:581] - INFO: token.dat size = 19890 B
+2023-11-16 12:29:51,401 - main.py[line:738] - INFO: TrapGen Time: 0.191937 s
+2023-11-16 12:29:51,401 - main.py[line:738] - INFO: TrapGen Time: 0.191937 s
+2023-11-16 12:29:51,404 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,404 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,404 - main.py[line:744] - INFO: Search Time: 0.003167 s
+2023-11-16 12:29:51,404 - main.py[line:744] - INFO: Search Time: 0.003167 s
+2023-11-16 12:29:51,404 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:51,404 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:51,404 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:51,404 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:51,597 - main.py[line:581] - INFO: token.dat size = 19896 B
+2023-11-16 12:29:51,597 - main.py[line:581] - INFO: token.dat size = 19896 B
+2023-11-16 12:29:51,597 - main.py[line:738] - INFO: TrapGen Time: 0.192711 s
+2023-11-16 12:29:51,597 - main.py[line:738] - INFO: TrapGen Time: 0.192711 s
+2023-11-16 12:29:51,600 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,600 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,600 - main.py[line:744] - INFO: Search Time: 0.003064 s
+2023-11-16 12:29:51,600 - main.py[line:744] - INFO: Search Time: 0.003064 s
+2023-11-16 12:29:51,600 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,600 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,600 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:51,600 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:51,785 - main.py[line:581] - INFO: token.dat size = 19902 B
+2023-11-16 12:29:51,785 - main.py[line:581] - INFO: token.dat size = 19902 B
+2023-11-16 12:29:51,786 - main.py[line:738] - INFO: TrapGen Time: 0.185161 s
+2023-11-16 12:29:51,786 - main.py[line:738] - INFO: TrapGen Time: 0.185161 s
+2023-11-16 12:29:51,789 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,789 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,789 - main.py[line:744] - INFO: Search Time: 0.003106 s
+2023-11-16 12:29:51,789 - main.py[line:744] - INFO: Search Time: 0.003106 s
+2023-11-16 12:29:51,789 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,789 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:51,789 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:51,789 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:51,982 - main.py[line:581] - INFO: token.dat size = 19908 B
+2023-11-16 12:29:51,982 - main.py[line:581] - INFO: token.dat size = 19908 B
+2023-11-16 12:29:51,982 - main.py[line:738] - INFO: TrapGen Time: 0.192899 s
+2023-11-16 12:29:51,982 - main.py[line:738] - INFO: TrapGen Time: 0.192899 s
+2023-11-16 12:29:51,985 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,985 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:51,985 - main.py[line:744] - INFO: Search Time: 0.003171 s
+2023-11-16 12:29:51,985 - main.py[line:744] - INFO: Search Time: 0.003171 s
+2023-11-16 12:29:51,985 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:51,985 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:51,985 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:51,985 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:52,179 - main.py[line:581] - INFO: token.dat size = 19914 B
+2023-11-16 12:29:52,179 - main.py[line:581] - INFO: token.dat size = 19914 B
+2023-11-16 12:29:52,179 - main.py[line:738] - INFO: TrapGen Time: 0.193281 s
+2023-11-16 12:29:52,179 - main.py[line:738] - INFO: TrapGen Time: 0.193281 s
+2023-11-16 12:29:52,182 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:52,182 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:52,182 - main.py[line:744] - INFO: Search Time: 0.003032 s
+2023-11-16 12:29:52,182 - main.py[line:744] - INFO: Search Time: 0.003032 s
+2023-11-16 12:29:52,182 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:52,182 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:52,182 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:52,182 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:52,368 - main.py[line:581] - INFO: token.dat size = 19921 B
+2023-11-16 12:29:52,368 - main.py[line:581] - INFO: token.dat size = 19921 B
+2023-11-16 12:29:52,368 - main.py[line:738] - INFO: TrapGen Time: 0.185995 s
+2023-11-16 12:29:52,368 - main.py[line:738] - INFO: TrapGen Time: 0.185995 s
+2023-11-16 12:29:52,371 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:52,371 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:52,371 - main.py[line:744] - INFO: Search Time: 0.003107 s
+2023-11-16 12:29:52,371 - main.py[line:744] - INFO: Search Time: 0.003107 s
+2023-11-16 12:29:52,371 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:52,371 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:52,813 - main.py[line:702] - INFO: =================Attnum: 40, wildcard: 40=================
+2023-11-16 12:29:52,813 - main.py[line:702] - INFO: =================Attnum: 40, wildcard: 40=================
+2023-11-16 12:29:52,839 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:52,839 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:52,839 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:52,839 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:52,839 - main.py[line:708] - INFO: GlobalSetup Time: 0.026712 s
+2023-11-16 12:29:52,839 - main.py[line:708] - INFO: GlobalSetup Time: 0.026712 s
+2023-11-16 12:29:53,191 - main.py[line:289] - INFO: ek.dat size = 16937 B
+2023-11-16 12:29:53,191 - main.py[line:289] - INFO: ek.dat size = 16937 B
+2023-11-16 12:29:53,191 - main.py[line:714] - INFO: SKeyGen Time: 0.351924 s
+2023-11-16 12:29:53,191 - main.py[line:714] - INFO: SKeyGen Time: 0.351924 s
+2023-11-16 12:29:53,598 - main.py[line:354] - INFO: dkR.dat size = 88616 B
+2023-11-16 12:29:53,598 - main.py[line:354] - INFO: dkR.dat size = 88616 B
+2023-11-16 12:29:53,598 - main.py[line:720] - INFO: RKeyGen Time: 0.406534 s
+2023-11-16 12:29:53,598 - main.py[line:720] - INFO: RKeyGen Time: 0.406534 s
+2023-11-16 12:29:53,605 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:53,605 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:53,605 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:53,605 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:53,605 - main.py[line:726] - INFO: AllSetup Time: 0.006797 s
+2023-11-16 12:29:53,605 - main.py[line:726] - INFO: AllSetup Time: 0.006797 s
+2023-11-16 12:29:53,605 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:53,605 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:53,818 - main.py[line:581] - INFO: token.dat size = 22506 B
+2023-11-16 12:29:53,818 - main.py[line:581] - INFO: token.dat size = 22506 B
+2023-11-16 12:29:53,818 - main.py[line:738] - INFO: TrapGen Time: 0.212471 s
+2023-11-16 12:29:53,818 - main.py[line:738] - INFO: TrapGen Time: 0.212471 s
+2023-11-16 12:29:53,821 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:53,821 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:53,821 - main.py[line:744] - INFO: Search Time: 0.003097 s
+2023-11-16 12:29:53,821 - main.py[line:744] - INFO: Search Time: 0.003097 s
+2023-11-16 12:29:53,821 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:53,821 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:53,821 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:53,821 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:54,029 - main.py[line:581] - INFO: token.dat size = 22512 B
+2023-11-16 12:29:54,029 - main.py[line:581] - INFO: token.dat size = 22512 B
+2023-11-16 12:29:54,029 - main.py[line:738] - INFO: TrapGen Time: 0.207676 s
+2023-11-16 12:29:54,029 - main.py[line:738] - INFO: TrapGen Time: 0.207676 s
+2023-11-16 12:29:54,032 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,032 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,032 - main.py[line:744] - INFO: Search Time: 0.003020 s
+2023-11-16 12:29:54,032 - main.py[line:744] - INFO: Search Time: 0.003020 s
+2023-11-16 12:29:54,032 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,032 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,032 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:54,032 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:54,246 - main.py[line:581] - INFO: token.dat size = 22518 B
+2023-11-16 12:29:54,246 - main.py[line:581] - INFO: token.dat size = 22518 B
+2023-11-16 12:29:54,247 - main.py[line:738] - INFO: TrapGen Time: 0.214425 s
+2023-11-16 12:29:54,247 - main.py[line:738] - INFO: TrapGen Time: 0.214425 s
+2023-11-16 12:29:54,250 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,250 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,250 - main.py[line:744] - INFO: Search Time: 0.003168 s
+2023-11-16 12:29:54,250 - main.py[line:744] - INFO: Search Time: 0.003168 s
+2023-11-16 12:29:54,250 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,250 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,250 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:54,250 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:54,461 - main.py[line:581] - INFO: token.dat size = 22524 B
+2023-11-16 12:29:54,461 - main.py[line:581] - INFO: token.dat size = 22524 B
+2023-11-16 12:29:54,461 - main.py[line:738] - INFO: TrapGen Time: 0.211223 s
+2023-11-16 12:29:54,461 - main.py[line:738] - INFO: TrapGen Time: 0.211223 s
+2023-11-16 12:29:54,464 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,464 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,464 - main.py[line:744] - INFO: Search Time: 0.003014 s
+2023-11-16 12:29:54,464 - main.py[line:744] - INFO: Search Time: 0.003014 s
+2023-11-16 12:29:54,465 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:54,465 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:54,465 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:54,465 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:54,678 - main.py[line:581] - INFO: token.dat size = 22530 B
+2023-11-16 12:29:54,678 - main.py[line:581] - INFO: token.dat size = 22530 B
+2023-11-16 12:29:54,679 - main.py[line:738] - INFO: TrapGen Time: 0.213804 s
+2023-11-16 12:29:54,679 - main.py[line:738] - INFO: TrapGen Time: 0.213804 s
+2023-11-16 12:29:54,682 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,682 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,682 - main.py[line:744] - INFO: Search Time: 0.003084 s
+2023-11-16 12:29:54,682 - main.py[line:744] - INFO: Search Time: 0.003084 s
+2023-11-16 12:29:54,682 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,682 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,682 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:54,682 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:54,899 - main.py[line:581] - INFO: token.dat size = 22536 B
+2023-11-16 12:29:54,899 - main.py[line:581] - INFO: token.dat size = 22536 B
+2023-11-16 12:29:54,899 - main.py[line:738] - INFO: TrapGen Time: 0.217314 s
+2023-11-16 12:29:54,899 - main.py[line:738] - INFO: TrapGen Time: 0.217314 s
+2023-11-16 12:29:54,903 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,903 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:54,903 - main.py[line:744] - INFO: Search Time: 0.003290 s
+2023-11-16 12:29:54,903 - main.py[line:744] - INFO: Search Time: 0.003290 s
+2023-11-16 12:29:54,903 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,903 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:54,903 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:54,903 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:55,116 - main.py[line:581] - INFO: token.dat size = 22542 B
+2023-11-16 12:29:55,116 - main.py[line:581] - INFO: token.dat size = 22542 B
+2023-11-16 12:29:55,116 - main.py[line:738] - INFO: TrapGen Time: 0.212940 s
+2023-11-16 12:29:55,116 - main.py[line:738] - INFO: TrapGen Time: 0.212940 s
+2023-11-16 12:29:55,119 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,119 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,119 - main.py[line:744] - INFO: Search Time: 0.003015 s
+2023-11-16 12:29:55,119 - main.py[line:744] - INFO: Search Time: 0.003015 s
+2023-11-16 12:29:55,119 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:55,119 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:29:55,119 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:55,119 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:55,335 - main.py[line:581] - INFO: token.dat size = 22548 B
+2023-11-16 12:29:55,335 - main.py[line:581] - INFO: token.dat size = 22548 B
+2023-11-16 12:29:55,335 - main.py[line:738] - INFO: TrapGen Time: 0.215811 s
+2023-11-16 12:29:55,335 - main.py[line:738] - INFO: TrapGen Time: 0.215811 s
+2023-11-16 12:29:55,338 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,338 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,338 - main.py[line:744] - INFO: Search Time: 0.003083 s
+2023-11-16 12:29:55,338 - main.py[line:744] - INFO: Search Time: 0.003083 s
+2023-11-16 12:29:55,338 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:55,338 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:55,339 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:55,339 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:55,553 - main.py[line:581] - INFO: token.dat size = 22554 B
+2023-11-16 12:29:55,553 - main.py[line:581] - INFO: token.dat size = 22554 B
+2023-11-16 12:29:55,553 - main.py[line:738] - INFO: TrapGen Time: 0.214287 s
+2023-11-16 12:29:55,553 - main.py[line:738] - INFO: TrapGen Time: 0.214287 s
+2023-11-16 12:29:55,556 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,556 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,556 - main.py[line:744] - INFO: Search Time: 0.003135 s
+2023-11-16 12:29:55,556 - main.py[line:744] - INFO: Search Time: 0.003135 s
+2023-11-16 12:29:55,556 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:55,556 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:55,556 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:55,556 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:55,764 - main.py[line:581] - INFO: token.dat size = 22561 B
+2023-11-16 12:29:55,764 - main.py[line:581] - INFO: token.dat size = 22561 B
+2023-11-16 12:29:55,764 - main.py[line:738] - INFO: TrapGen Time: 0.207893 s
+2023-11-16 12:29:55,764 - main.py[line:738] - INFO: TrapGen Time: 0.207893 s
+2023-11-16 12:29:55,767 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,767 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:55,768 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:55,768 - main.py[line:744] - INFO: Search Time: 0.003088 s
+2023-11-16 12:29:55,768 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:55,768 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:56,263 - main.py[line:702] - INFO: =================Attnum: 45, wildcard: 45=================
+2023-11-16 12:29:56,263 - main.py[line:702] - INFO: =================Attnum: 45, wildcard: 45=================
+2023-11-16 12:29:56,289 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:56,289 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:29:56,289 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:56,289 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:29:56,290 - main.py[line:708] - INFO: GlobalSetup Time: 0.026794 s
+2023-11-16 12:29:56,290 - main.py[line:708] - INFO: GlobalSetup Time: 0.026794 s
+2023-11-16 12:29:56,684 - main.py[line:289] - INFO: ek.dat size = 18962 B
+2023-11-16 12:29:56,684 - main.py[line:289] - INFO: ek.dat size = 18962 B
+2023-11-16 12:29:56,684 - main.py[line:714] - INFO: SKeyGen Time: 0.394444 s
+2023-11-16 12:29:56,684 - main.py[line:714] - INFO: SKeyGen Time: 0.394444 s
+2023-11-16 12:29:57,141 - main.py[line:354] - INFO: dkR.dat size = 109526 B
+2023-11-16 12:29:57,141 - main.py[line:354] - INFO: dkR.dat size = 109526 B
+2023-11-16 12:29:57,141 - main.py[line:720] - INFO: RKeyGen Time: 0.456699 s
+2023-11-16 12:29:57,141 - main.py[line:720] - INFO: RKeyGen Time: 0.456699 s
+2023-11-16 12:29:57,148 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:57,148 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:29:57,148 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:57,148 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:29:57,148 - main.py[line:726] - INFO: AllSetup Time: 0.006819 s
+2023-11-16 12:29:57,148 - main.py[line:726] - INFO: AllSetup Time: 0.006819 s
+2023-11-16 12:29:57,148 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:57,148 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:29:57,386 - main.py[line:581] - INFO: token.dat size = 25146 B
+2023-11-16 12:29:57,386 - main.py[line:581] - INFO: token.dat size = 25146 B
+2023-11-16 12:29:57,387 - main.py[line:738] - INFO: TrapGen Time: 0.238598 s
+2023-11-16 12:29:57,387 - main.py[line:738] - INFO: TrapGen Time: 0.238598 s
+2023-11-16 12:29:57,390 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,390 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,390 - main.py[line:744] - INFO: Search Time: 0.003086 s
+2023-11-16 12:29:57,390 - main.py[line:744] - INFO: Search Time: 0.003086 s
+2023-11-16 12:29:57,390 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,390 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,390 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:57,390 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:29:57,630 - main.py[line:581] - INFO: token.dat size = 25152 B
+2023-11-16 12:29:57,630 - main.py[line:581] - INFO: token.dat size = 25152 B
+2023-11-16 12:29:57,631 - main.py[line:738] - INFO: TrapGen Time: 0.240699 s
+2023-11-16 12:29:57,631 - main.py[line:738] - INFO: TrapGen Time: 0.240699 s
+2023-11-16 12:29:57,634 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,634 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,634 - main.py[line:744] - INFO: Search Time: 0.003137 s
+2023-11-16 12:29:57,634 - main.py[line:744] - INFO: Search Time: 0.003137 s
+2023-11-16 12:29:57,634 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,634 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,634 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:57,634 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:29:57,873 - main.py[line:581] - INFO: token.dat size = 25158 B
+2023-11-16 12:29:57,873 - main.py[line:581] - INFO: token.dat size = 25158 B
+2023-11-16 12:29:57,873 - main.py[line:738] - INFO: TrapGen Time: 0.238716 s
+2023-11-16 12:29:57,873 - main.py[line:738] - INFO: TrapGen Time: 0.238716 s
+2023-11-16 12:29:57,876 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,876 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:57,876 - main.py[line:744] - INFO: Search Time: 0.003089 s
+2023-11-16 12:29:57,876 - main.py[line:744] - INFO: Search Time: 0.003089 s
+2023-11-16 12:29:57,876 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,876 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:57,876 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:57,876 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:29:58,118 - main.py[line:581] - INFO: token.dat size = 25164 B
+2023-11-16 12:29:58,118 - main.py[line:581] - INFO: token.dat size = 25164 B
+2023-11-16 12:29:58,118 - main.py[line:738] - INFO: TrapGen Time: 0.241798 s
+2023-11-16 12:29:58,118 - main.py[line:738] - INFO: TrapGen Time: 0.241798 s
+2023-11-16 12:29:58,121 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,121 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,121 - main.py[line:744] - INFO: Search Time: 0.003101 s
+2023-11-16 12:29:58,121 - main.py[line:744] - INFO: Search Time: 0.003101 s
+2023-11-16 12:29:58,121 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:58,121 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:58,122 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:58,122 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:29:58,360 - main.py[line:581] - INFO: token.dat size = 25170 B
+2023-11-16 12:29:58,360 - main.py[line:581] - INFO: token.dat size = 25170 B
+2023-11-16 12:29:58,360 - main.py[line:738] - INFO: TrapGen Time: 0.238145 s
+2023-11-16 12:29:58,360 - main.py[line:738] - INFO: TrapGen Time: 0.238145 s
+2023-11-16 12:29:58,363 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,363 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,363 - main.py[line:744] - INFO: Search Time: 0.003040 s
+2023-11-16 12:29:58,363 - main.py[line:744] - INFO: Search Time: 0.003040 s
+2023-11-16 12:29:58,363 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:58,363 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:58,363 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:58,363 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:29:58,601 - main.py[line:581] - INFO: token.dat size = 25176 B
+2023-11-16 12:29:58,601 - main.py[line:581] - INFO: token.dat size = 25176 B
+2023-11-16 12:29:58,602 - main.py[line:738] - INFO: TrapGen Time: 0.238380 s
+2023-11-16 12:29:58,602 - main.py[line:738] - INFO: TrapGen Time: 0.238380 s
+2023-11-16 12:29:58,605 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,605 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,605 - main.py[line:744] - INFO: Search Time: 0.003156 s
+2023-11-16 12:29:58,605 - main.py[line:744] - INFO: Search Time: 0.003156 s
+2023-11-16 12:29:58,605 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:58,605 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:58,605 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:58,605 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:29:58,844 - main.py[line:581] - INFO: token.dat size = 25182 B
+2023-11-16 12:29:58,844 - main.py[line:581] - INFO: token.dat size = 25182 B
+2023-11-16 12:29:58,844 - main.py[line:738] - INFO: TrapGen Time: 0.238656 s
+2023-11-16 12:29:58,844 - main.py[line:738] - INFO: TrapGen Time: 0.238656 s
+2023-11-16 12:29:58,847 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,847 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:58,847 - main.py[line:744] - INFO: Search Time: 0.003127 s
+2023-11-16 12:29:58,847 - main.py[line:744] - INFO: Search Time: 0.003127 s
+2023-11-16 12:29:58,847 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:58,847 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:29:58,847 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:58,847 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:29:59,087 - main.py[line:581] - INFO: token.dat size = 25188 B
+2023-11-16 12:29:59,087 - main.py[line:581] - INFO: token.dat size = 25188 B
+2023-11-16 12:29:59,087 - main.py[line:738] - INFO: TrapGen Time: 0.240019 s
+2023-11-16 12:29:59,087 - main.py[line:738] - INFO: TrapGen Time: 0.240019 s
+2023-11-16 12:29:59,090 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,090 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,091 - main.py[line:744] - INFO: Search Time: 0.003093 s
+2023-11-16 12:29:59,091 - main.py[line:744] - INFO: Search Time: 0.003093 s
+2023-11-16 12:29:59,091 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:59,091 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:59,091 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:59,091 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:29:59,327 - main.py[line:581] - INFO: token.dat size = 25194 B
+2023-11-16 12:29:59,327 - main.py[line:581] - INFO: token.dat size = 25194 B
+2023-11-16 12:29:59,327 - main.py[line:738] - INFO: TrapGen Time: 0.236562 s
+2023-11-16 12:29:59,327 - main.py[line:738] - INFO: TrapGen Time: 0.236562 s
+2023-11-16 12:29:59,330 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,330 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,331 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:59,331 - main.py[line:744] - INFO: Search Time: 0.003043 s
+2023-11-16 12:29:59,331 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:59,331 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:59,331 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:59,331 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:29:59,574 - main.py[line:581] - INFO: token.dat size = 25201 B
+2023-11-16 12:29:59,574 - main.py[line:581] - INFO: token.dat size = 25201 B
+2023-11-16 12:29:59,574 - main.py[line:738] - INFO: TrapGen Time: 0.243008 s
+2023-11-16 12:29:59,574 - main.py[line:738] - INFO: TrapGen Time: 0.243008 s
+2023-11-16 12:29:59,577 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,577 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:29:59,577 - main.py[line:744] - INFO: Search Time: 0.003095 s
+2023-11-16 12:29:59,577 - main.py[line:744] - INFO: Search Time: 0.003095 s
+2023-11-16 12:29:59,577 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:29:59,577 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:00,128 - main.py[line:702] - INFO: =================Attnum: 50, wildcard: 50=================
+2023-11-16 12:30:00,128 - main.py[line:702] - INFO: =================Attnum: 50, wildcard: 50=================
+2023-11-16 12:30:00,154 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:30:00,154 - main.py[line:221] - INFO: PP.dat size = 2129 B
+2023-11-16 12:30:00,155 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:30:00,155 - main.py[line:223] - INFO: MSK.dat size = 917 B
+2023-11-16 12:30:00,155 - main.py[line:708] - INFO: GlobalSetup Time: 0.026788 s
+2023-11-16 12:30:00,155 - main.py[line:708] - INFO: GlobalSetup Time: 0.026788 s
+2023-11-16 12:30:00,590 - main.py[line:289] - INFO: ek.dat size = 20987 B
+2023-11-16 12:30:00,590 - main.py[line:289] - INFO: ek.dat size = 20987 B
+2023-11-16 12:30:00,590 - main.py[line:714] - INFO: SKeyGen Time: 0.435406 s
+2023-11-16 12:30:00,590 - main.py[line:714] - INFO: SKeyGen Time: 0.435406 s
+2023-11-16 12:30:01,099 - main.py[line:354] - INFO: dkR.dat size = 132636 B
+2023-11-16 12:30:01,099 - main.py[line:354] - INFO: dkR.dat size = 132636 B
+2023-11-16 12:30:01,099 - main.py[line:720] - INFO: RKeyGen Time: 0.508466 s
+2023-11-16 12:30:01,099 - main.py[line:720] - INFO: RKeyGen Time: 0.508466 s
+2023-11-16 12:30:01,106 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:30:01,106 - main.py[line:474] - INFO: EDB.dat size = 2 B
+2023-11-16 12:30:01,106 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:30:01,106 - main.py[line:476] - INFO: XSet.dat size = 2 B
+2023-11-16 12:30:01,106 - main.py[line:726] - INFO: AllSetup Time: 0.006842 s
+2023-11-16 12:30:01,106 - main.py[line:726] - INFO: AllSetup Time: 0.006842 s
+2023-11-16 12:30:01,106 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:30:01,106 - main.py[line:731] - INFO: =================Query for 1 time=================
+2023-11-16 12:30:01,369 - main.py[line:581] - INFO: token.dat size = 27786 B
+2023-11-16 12:30:01,369 - main.py[line:581] - INFO: token.dat size = 27786 B
+2023-11-16 12:30:01,369 - main.py[line:738] - INFO: TrapGen Time: 0.263608 s
+2023-11-16 12:30:01,369 - main.py[line:738] - INFO: TrapGen Time: 0.263608 s
+2023-11-16 12:30:01,373 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,373 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,373 - main.py[line:744] - INFO: Search Time: 0.003107 s
+2023-11-16 12:30:01,373 - main.py[line:744] - INFO: Search Time: 0.003107 s
+2023-11-16 12:30:01,373 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,373 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,373 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:30:01,373 - main.py[line:731] - INFO: =================Query for 2 time=================
+2023-11-16 12:30:01,634 - main.py[line:581] - INFO: token.dat size = 27792 B
+2023-11-16 12:30:01,634 - main.py[line:581] - INFO: token.dat size = 27792 B
+2023-11-16 12:30:01,634 - main.py[line:738] - INFO: TrapGen Time: 0.261429 s
+2023-11-16 12:30:01,634 - main.py[line:738] - INFO: TrapGen Time: 0.261429 s
+2023-11-16 12:30:01,637 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,637 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,638 - main.py[line:744] - INFO: Search Time: 0.003058 s
+2023-11-16 12:30:01,638 - main.py[line:744] - INFO: Search Time: 0.003058 s
+2023-11-16 12:30:01,638 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,638 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,638 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:30:01,638 - main.py[line:731] - INFO: =================Query for 3 time=================
+2023-11-16 12:30:01,900 - main.py[line:581] - INFO: token.dat size = 27798 B
+2023-11-16 12:30:01,900 - main.py[line:581] - INFO: token.dat size = 27798 B
+2023-11-16 12:30:01,900 - main.py[line:738] - INFO: TrapGen Time: 0.262048 s
+2023-11-16 12:30:01,900 - main.py[line:738] - INFO: TrapGen Time: 0.262048 s
+2023-11-16 12:30:01,903 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,903 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:01,903 - main.py[line:744] - INFO: Search Time: 0.003035 s
+2023-11-16 12:30:01,903 - main.py[line:744] - INFO: Search Time: 0.003035 s
+2023-11-16 12:30:01,903 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,903 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:01,903 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:30:01,903 - main.py[line:731] - INFO: =================Query for 4 time=================
+2023-11-16 12:30:02,167 - main.py[line:581] - INFO: token.dat size = 27804 B
+2023-11-16 12:30:02,167 - main.py[line:581] - INFO: token.dat size = 27804 B
+2023-11-16 12:30:02,167 - main.py[line:738] - INFO: TrapGen Time: 0.263665 s
+2023-11-16 12:30:02,167 - main.py[line:738] - INFO: TrapGen Time: 0.263665 s
+2023-11-16 12:30:02,170 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,170 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,170 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:30:02,170 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:30:02,170 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,170 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,170 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:30:02,170 - main.py[line:731] - INFO: =================Query for 5 time=================
+2023-11-16 12:30:02,433 - main.py[line:581] - INFO: token.dat size = 27810 B
+2023-11-16 12:30:02,433 - main.py[line:581] - INFO: token.dat size = 27810 B
+2023-11-16 12:30:02,433 - main.py[line:738] - INFO: TrapGen Time: 0.263040 s
+2023-11-16 12:30:02,433 - main.py[line:738] - INFO: TrapGen Time: 0.263040 s
+2023-11-16 12:30:02,436 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,436 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,437 - main.py[line:744] - INFO: Search Time: 0.003023 s
+2023-11-16 12:30:02,437 - main.py[line:744] - INFO: Search Time: 0.003023 s
+2023-11-16 12:30:02,437 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,437 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,437 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:30:02,437 - main.py[line:731] - INFO: =================Query for 6 time=================
+2023-11-16 12:30:02,699 - main.py[line:581] - INFO: token.dat size = 27816 B
+2023-11-16 12:30:02,699 - main.py[line:581] - INFO: token.dat size = 27816 B
+2023-11-16 12:30:02,699 - main.py[line:738] - INFO: TrapGen Time: 0.262408 s
+2023-11-16 12:30:02,699 - main.py[line:738] - INFO: TrapGen Time: 0.262408 s
+2023-11-16 12:30:02,702 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,702 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,702 - main.py[line:744] - INFO: Search Time: 0.003056 s
+2023-11-16 12:30:02,702 - main.py[line:744] - INFO: Search Time: 0.003056 s
+2023-11-16 12:30:02,703 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,703 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:02,703 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:30:02,703 - main.py[line:731] - INFO: =================Query for 7 time=================
+2023-11-16 12:30:02,963 - main.py[line:581] - INFO: token.dat size = 27822 B
+2023-11-16 12:30:02,963 - main.py[line:581] - INFO: token.dat size = 27822 B
+2023-11-16 12:30:02,963 - main.py[line:738] - INFO: TrapGen Time: 0.260094 s
+2023-11-16 12:30:02,963 - main.py[line:738] - INFO: TrapGen Time: 0.260094 s
+2023-11-16 12:30:02,966 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,966 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:02,966 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:30:02,966 - main.py[line:744] - INFO: Search Time: 0.003067 s
+2023-11-16 12:30:02,966 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:30:02,966 - main.py[line:750] - INFO: Decrypt Time: 0.000006 s
+2023-11-16 12:30:02,966 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:30:02,966 - main.py[line:731] - INFO: =================Query for 8 time=================
+2023-11-16 12:30:03,229 - main.py[line:581] - INFO: token.dat size = 27828 B
+2023-11-16 12:30:03,229 - main.py[line:581] - INFO: token.dat size = 27828 B
+2023-11-16 12:30:03,229 - main.py[line:738] - INFO: TrapGen Time: 0.262775 s
+2023-11-16 12:30:03,229 - main.py[line:738] - INFO: TrapGen Time: 0.262775 s
+2023-11-16 12:30:03,232 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,232 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,232 - main.py[line:744] - INFO: Search Time: 0.003037 s
+2023-11-16 12:30:03,232 - main.py[line:744] - INFO: Search Time: 0.003037 s
+2023-11-16 12:30:03,232 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:03,232 - main.py[line:750] - INFO: Decrypt Time: 0.000005 s
+2023-11-16 12:30:03,232 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:30:03,232 - main.py[line:731] - INFO: =================Query for 9 time=================
+2023-11-16 12:30:03,493 - main.py[line:581] - INFO: token.dat size = 27834 B
+2023-11-16 12:30:03,493 - main.py[line:581] - INFO: token.dat size = 27834 B
+2023-11-16 12:30:03,494 - main.py[line:738] - INFO: TrapGen Time: 0.261173 s
+2023-11-16 12:30:03,494 - main.py[line:738] - INFO: TrapGen Time: 0.261173 s
+2023-11-16 12:30:03,497 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,497 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,497 - main.py[line:744] - INFO: Search Time: 0.003141 s
+2023-11-16 12:30:03,497 - main.py[line:744] - INFO: Search Time: 0.003141 s
+2023-11-16 12:30:03,497 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:30:03,497 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:30:03,497 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:30:03,497 - main.py[line:731] - INFO: =================Query for 10 time=================
+2023-11-16 12:30:03,758 - main.py[line:581] - INFO: token.dat size = 27841 B
+2023-11-16 12:30:03,758 - main.py[line:581] - INFO: token.dat size = 27841 B
+2023-11-16 12:30:03,759 - main.py[line:738] - INFO: TrapGen Time: 0.261434 s
+2023-11-16 12:30:03,759 - main.py[line:738] - INFO: TrapGen Time: 0.261434 s
+2023-11-16 12:30:03,762 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,762 - main.py[line:654] - INFO: R.dat size = 2 B
+2023-11-16 12:30:03,762 - main.py[line:744] - INFO: Search Time: 0.003127 s
+2023-11-16 12:30:03,762 - main.py[line:744] - INFO: Search Time: 0.003127 s
+2023-11-16 12:30:03,762 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
+2023-11-16 12:30:03,762 - main.py[line:750] - INFO: Decrypt Time: 0.000004 s
